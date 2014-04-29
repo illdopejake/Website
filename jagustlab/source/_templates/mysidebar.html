@@ -1,0 +1,13 @@
+{% include "!mysidebar.html" %}
+
+{% block quicklinks %}
+<h3>Quick links</h3>
+
+<ul>
+<li><a href="{{ pathto('welcome') }}"> Home</a></li>
+<li><a href="{{ pathto('people') }}"> People</a></li>
+<li><a href="{{ pathto('research') }}"> Research</a></li>
+<li><a href="{{ pathto('publications') }}"> Publications</a></li>
+<li><a href="{{ pathto('contents') }}"> Contents</a></li>
+</ul>
+{% endblock %}
