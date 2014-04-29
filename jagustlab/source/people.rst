@@ -60,7 +60,6 @@ Fellows
 
     |hwamee| Hwamee Oh
 
-    |hwameemail|
 
     My research in the Jagust lab examines cognitive, structural, and
     functional alterations in relation to normal aging and pathological 
@@ -189,7 +188,6 @@ Visiting Scholars
 
 	|gil| Gil Rabinovici
 
-	|gilmail|
 
 	Regularly visits from UCSF, Stanford Alum, `Cubs <http://chicago.cubs.mlb.com/index.jsp?c_id=chc>`_ fan!
 
@@ -295,7 +293,6 @@ Staff
 
     |susan| Susan Landau
 
-    |slandaumail|
 
     `Research and Background <http://smlandau.org>`_
 
@@ -314,25 +311,6 @@ Staff
 
 ++++
 
-    |cindee| Cindee Madison 
-
-    |cindeemail|
-
-    She codes and loves `Python <http://www.python.org/>`_ 
-    
-    Enjoys `vim <http://www.vim.org/>`_ 
-    
-    Want to learn python??
-    `IPython <http://ipython.org/install.html>`_, and very useful `ipython notebooks <http://nbviewer.ipython.org/>`_
-    
-    Python in Berkeley `python.berkeley.edu <https://python.berkeley.edu>`_
-
-    Or join me at the `py4science meeting <http://python.berkeley.edu/py4science/>`_
-    
-    my blog `rationalgirl.com <http://www.rationalgirl.com/blog/html/index.html>`_
-
-
-++++
 
     |kris| Kristin Norton
 
@@ -343,7 +321,6 @@ Staff
 
 	|henry| Henry Schwimmer
 
-	|henrymail|
 
 	When not in the lab, he can be found shredding the gnar in Tahoe or 
 	hiking the backcountry with his harmonica. 
@@ -427,6 +404,24 @@ Undergraduate Assistants
 
 Alumni
 ======
+
+    |cindee| Cindee Madison 
+
+
+    She codes and loves `Python <http://www.python.org/>`_ 
+    
+    Enjoys `vim <http://www.vim.org/>`_ 
+    
+    Want to learn python??
+    `IPython <http://ipython.org/install.html>`_, and very useful `ipython notebooks <http://nbviewer.ipython.org/>`_
+    
+    Python in Berkeley `python.berkeley.edu <https://python.berkeley.edu>`_
+
+    Or join me at the `py4science meeting <http://python.berkeley.edu/py4science/>`_
+    
+    my blog `rationalgirl.com <http://www.rationalgirl.com/blog/html/index.html>`_
+
+++++
 
     |scott| Scott Roberts
 
