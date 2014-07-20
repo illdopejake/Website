@@ -11,6 +11,7 @@ Contents:
    :maxdepth: 2
 
    index
+   news
    research
    people
    publications

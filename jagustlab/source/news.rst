@@ -4,6 +4,73 @@
  News
 ======
 
+**AWARD**
+
+Congratulations to Hwamee for winning the de Leon prize in Neuroimaging for best paper of the year!  
+
+http://www.alz.org/aaic/about/awards.asp
+
+The award was presented at the by ISTAART at the AAIC annual conference in Copenhagen.  Hwamee one the
+award for her paper:
+
+**Frontotemporal network connectivity during memory encoding is increased with aging and disrupted by beta-amyloid**
+
+J Neurosci. 2013 Nov 20;33(47):18425-37
+
+*Oh H, Jagust WJ*
+
+
+++++
+
+June (2014)
+
+For the annual lab outing, the Jagust Lab enjoys a hike, followed by oyster shucking at Tomales Bay!
+
+.. image:: mugs/Labouting2014_hike.jpg
+
+.. image:: mugs/labouting2014_shuck.jpg
+
+.. image:: mugs/labouting2014_view.jpg
+
+++++
+
+April (2014)
+
+Big congrats to Katie for passing her qualifying examination! She is now an offical PhD Candidate! 
+
+++++
+
+**AWARD**
+
+.. image:: mugs/billaward.jpg
+
+Professor Jagust is the recipient of the 2013 American Academy of Neurology's Potamkin Prize for Research in Pick's, Alzheimer's, and Related Diseases
+
+http://sph-publications.berkeley.edu/bho/2013/01/jagust-wins-potamkin-prize/
+
+http://www.alzforum.org/new/detail.asp?id=3388
+
+++++
+
+Special shout out to Bryce Mander and Professor Matt Walker for their Nature Neruoscience Paper 
+
+http://www.nytimes.com/2013/01/28/health/brain-aging-linked-to-sleep-related-memory-decline.html?_r=0
+
+++++
+
+Professor Jagust and Dr. Susan Landau were in the News in response to this recent paper:
+
+`Association of Lifetime Cognitive Engagement and Low β-Amyloid Deposition  <http://www.ncbi.nlm.nih.gov/pubmed/22271235>`_
+
+
+`NYTimes: Exercising an Aging Brain  <http://www.nytimes.com/2012/03/08/business/retirementspecial/retirees-are-using-education-to-exercise-an-aging-brain.html?_r=2&scp=2&sq=denise%20grady&st=cse>`_
+
+
+`KQED Story <http://blogs.kqed.org/stateofhealth/2012/01/23/can-games-and-reading-keep-alzheimers-at-bay/>`_
+
+`Link to ABC Story <http://abclocal.go.com/kgo/video?id=8516270>`_
+
+
 (August 2013)
 
 We are all excited to give best wishes to Susan and Pierre, welcoming their new adorable son Benjamin.
@@ -13,7 +80,7 @@ We are all excited to give best wishes to Susan and Pierre, welcoming their new 
 
 (April 2013)
 
-Shawm Marks has passed his quals!! (Way to go Shawn!)
+Shawn Marks has passed his quals!! (Way to go Shawn!)
 
 And Katelyn Begany is officially joining the lab as a graduate student.
 We are all excited to see her work on graph theory!

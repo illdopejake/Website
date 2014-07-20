@@ -7,12 +7,15 @@
 
 Projects currently ongoing in the Lab
 
-Amyloid Imaging
+Imaging Aggregated Proteins in Aging and Dementia 
 -----------------------------------------------------
 
-|amyloid| **Brain Amyloid Imaging in Aging and Dementia**
+**Amyloid and Tau Imaging**
 
-Deposition of amyloid, or more specifically β-amyloid (or Aβ) is a characteristic feature of Alzheimer’s disease (AD).  This Aβ is the main constituent of the amyloid plaque that is seen microscopically in the brain at post-mortem.  While the cause of AD is still debated, many current theories implicate β-amyloid deposition as the key pathogenic event in AD.  Until recently, the only way to see this protein was to examine a brain at postmortem.  Within the past several years, a new technique has become available that makes use of positron-emitting radionuclides tagged to specific molecules that can be safely injected into people to create images of brain β-amyloid deposition.  Our lab is currently using one of these PET tracers, [11C]PIB (or Pittsburgh Compound B) to image brain β-amyloid deposition in several related research projects.  In all of these projects, research subjects undergo PIB-PET scanning, cognitive testing, and in many cases scanning with FDG (to measure brain glucose metabolism), structural magnetic resonance imaging (MRI) and functional MRI.
+Both brain aging and dementia are characterized by the deposition of proteins that abnormally aggregate in the brain. The key proteins are amyloid, or more specifically β-amyloid (or Aβ), and tau. Both of these proteins are characteristically found in the brains of patients with Alzheimer’s disease (AD), Aβ is the major constituent of the amyloid plaque, and tau is the major constituent of the neurofibrillary tangle. Scientists have long debated the relative roles of these proteins in the pathogenesis of AD. In addition to AD, both of these proteins are deposited in the brains of healthy older people, even those without any symptoms of cognitive loss. 
+
+Until recently, the only way to see these proteins was to examine a brain at postmortem. About 10 years ago, investigators developed a novel way of seeing aggregated forms of Aβ using positron emission tomography (PET) scans. The first compound to be developed to do this was called Pittsburgh Compound B (PIB), and our lab is actively engaged in studies using PIB and PET to image both normal older people and those with dementia in order to understand the timing of amyloid deposition and its effects. Within the past year, new PET radiotracers that image tau have also been developed. The combination of amyloid and tau imaging have opened the door to understanding how normal aging might be different from early AD, to define the earliest stages of AD, and to understand basic mechanisms of aging and dementia.
+
 
 Specific projects in the lab include:
 
@@ -39,6 +42,21 @@ Specific projects in the lab include:
     for the β-amyloid deposition.  Individuals who are imaged are
     also followed longitudinally to see if the amyloid deposition
     is related to long-term change in cognition.
+
+    Tau imaging in normal aging and dementia.  Tau is specifically 
+    interesting in aging because it is deposited in the medial 
+    temporal lobe, including the hippocampus and entorhinal cortex, 
+    structures intimately involved in memory. By combining 
+    measurements of tau with MRI measures of brain function and 
+    structure, we can investigate whether and how tau deposition 
+    may be related to memory loss often experienced by older 
+    people. In AD, tau deposition at postmortem has been linked to 
+    dementia severity, so tau imaging might be a useful way to 
+    stage AD and monitor experimental therapies.
+
+    |amyloid| PET scans taken with the amyloid imaging agent C-11 PIB. Top row indicates lack of tracer binding in a normal older person. Bottom row indicates extensive cortical uptake, consistent with diffuse deposition of beta-amyloid in an AD patient
+
+    |tau| Images of tau deposition taken with PET scanning and the tracer F-18 AV-1451. Top row indicates tracer uptake in the cortex of an AD patient. Bottom row indicates tracer uptake in the hippocampus (arrows) of a normal older person
 
 
 References
@@ -130,6 +148,10 @@ Current projects use [18F]Flurometatyrosine (FMT) with PET as an indicator of pr
 References
 ~~~~~~~~~~
 
+    [Aarts2014]_ Dopamine and the cognitive downside of a promised bonus
+
+    [Wallace2014]_ Dorsal striatal dopamine, food preference and health perception in humans
+
     [Dang2012]_  Dopamine supports coupling of attention-related networks
 
     [Dang2012_2]_ Striatal dopamine influences the default mode network to affect shifting 
@@ -153,10 +175,14 @@ References
 
 
 
-.. |amyloid| image:: _static/pib.png
+.. |amyloid| image:: _static/Amyloid.jpg
 
 .. |raclopride| image:: _static/rac_2back_DVR.png
 
 .. |meta_adni| image:: _static/adni_meta.png
 
 .. |adni_fdg| image:: _static/adni_fdg.png
+
+.. |tau| image:: _static/Tau.jpg
+
+

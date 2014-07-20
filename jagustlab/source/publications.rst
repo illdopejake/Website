@@ -14,8 +14,95 @@ Publication Timeline
     src='http://embed.verite.co/timeline/?source=0AiAA0OlPoQx6dDB3a2k5RU5iSC0wRFpmMGJxLXdJaVE&font=Merriweather-NewsCycle&maptype=ROADMAP&lang=en&start_at_end=true&hash_bookmark=true&height=500'
     width='100%' height='500' frameborder='0'></iframe>
 
+2014
+====
+
+
+.. [Aarts2014]
+
+    **Dopamine and the cognitive downside of a promised bonus** 
+
+    Psychological Science 2014 Feb 13
+
+    *Aarts E, Wallace DL, Dang LC, Jagust WJ, Cools R, D’Esposito M*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24525265>`_ 
+
+
+.. [Landau2014]
+
+    **Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers** 
+
+    European Journal of Nuclear Medicine and Molecular Imaging Mar 20 2014
+
+    *Landau SM, Thomas BA, Thurfjell L, Schmidt M, Margolin R, Mintun M, Pontecorvo M, Baker SL, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24647577>`_
+
+.. [Reed2014]
+
+    **Associations between serum cholesterol levels and cerebral amyloidosis** 
+
+    JAMA Neurology 71:195-200, 2014
+
+    *Reed B, Villeneuve S, Mack W, DeCarli C, Chui HC, Jagust WJ* 
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24378418>`_
+
+.. [Villeneuve2014]
+
+    **Cortical thickness mediates the effect of b-amyloid on episodic memory**
+
+    Neurology 82:761-7, 2014
+
+    *Villeneuve S, Reed BR, Wirth M, Haase CM, Madison CM, Ayakta N, Mack W, Mungas D, Chui HC, DeCarli C, Weiner MW, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24489134>`_
+
+.. [Villeneuve2014_2]
+    
+    **Vascular risk and Ab interact to reduct cortical thickness in AD vulnerable brain regions** 
+
+    Neurology 83: 40-47, 2014
+
+    *Villeneuve S, Reed BR, Madison CM, Wirth M, Marchant NL, Kriger S, Mack WJ, Sanossian N, DeCarli C, Chui HC, Weiner MW, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24907234>`_
+
+.. [Wallace2014]
+
+    **Dorsal striatal dopamine, food preference and health perception in humans** 
+
+    PloS One May 7 9(5):e96319, 2014
+
+    *Wallace DL, Aarts E, Dang LC, Greer SM, Jagust WJ, D’Esposito M* 
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24806534>`_
+
+.. [Wirth2014]
+    
+    **Neuroprotective pathways: lifestyle activity, brain pathology, and cognition in cognitively normal adults** 
+
+    Neurobiology of Aging 35:1873-1882, 2014
+
+    *Wirth M, Haase CM, Villeneuve S, Vogel J, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24656834>`_
+
+.. [Wirth2014]
+
+    **Gene-Environment interactions: Lifetime cognitive activity, ApoE genotype and beta-amyloid burden** 
+
+    Journal of Neuroscience 34: 8612-8617, 2014
+
+    *Wirth M, Villeneuve S, La Joie R, Marks SM, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24948815>`_
+
+
 2013
 ====
+
 
 .. [Jagust2013]
 
@@ -110,6 +197,16 @@ Publication Timeline
     *Oh H, Jagust WJ.*
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24259567>`_
+
+.. [Wirth2013]
+ 
+    **Associations between Alzheimer disease biomarkers, neurodegeneration, and cognition in cognitively normal older people**
+
+    JAMA Neurology 70:1512-1519, 2013
+
+    *Wirth M, Villeneuve S, Haase CM, Madison CM, Oh H, Landau SM, Rabinovici GD, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24166579>`_ 
 
 2012
 ====

@@ -3,7 +3,7 @@
 ========
 
 
-.. image:: mugs/lab_photo_june2013_sm.jpg
+.. image:: mugs/lab_photo_2014.JPG
    :width: 45%
 .. image:: mugs/jagust_award.jpg
    :width: 45%
@@ -36,30 +36,29 @@ Fellows
 	
 ++++
 
-    |renaud| Renaud La Joie
+    |saml| Samuel Lockhart
 
-    After spending five years studying patients with Alzheimer's disease 
-    using hippocampal subfield measurement,
-    structural MRI, Florbetapir-PET and FDG-PET under the 
-    rainy and cloudy sky of Normandy with `Gaël Chételat.
-    <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_
+    My research project in the Jagust lab examines neuroimaging biomarkers of preclinical Alzheimer’s Disease (AD). Preclinical progression along the AD pathological cascade may be inadvertently conflated with the normal aging process in many studies seeking to understand the causes of gradual cognitive decline late in life. Therefore, our goal is to investigate effects of tau and Aβ accumulation (measured using PET) on structural connectivity between these regions (measured using MRI and DTI), and the relative effects of these brain differences on memory performance.
+    
+    I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance
+ 
+    **Selected publications**
 
-    I arrived in Jagust lab in may 2013 to experience Californian weather. 
-    And also potentially to study the impact of
-    beta-amyoid on brain function in healthy aged people.
+    LOCKHART, S. N., Roach, A. E., Luck, S. J., Geng, J., Beckett, L., Carmichael, O., & DeCarli, C. (2014). White matter hyperintensities are associated with visual search behavior independent of generalized slowing in aging. Neuropsychologia, 52, 93–101. PMC3924853. `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24183716>`_
 
-    **Publications**
+    Maillard, P., Fletcher, E., LOCKHART, S. N., Roach, A. E., Reed, B., Mungas, D., DeCarli, C., & Carmichael, O. (2014). White matter hyperintensities and their penumbra lie along a continuum of injury in the aging brain. Stroke, 45(6), 1721-1726. PMID: 24781079.  `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24781079>`_
 
-    `Region-specific hierarchy between atrophy, hypometabolism, and β-amyloid (Aβ) load in Alzheimer's disease dementia.
-    <http://www.ncbi.nlm.nih.gov/pubmed/23152610>`_
+    Carmichael, O., & LOCKHART, S. N. (2012). The role of diffusion tensor imaging in the study of cognitive aging. C. S. Carter & J. W. Dalley (Eds.) Brain Imaging in Behavioral Neuroscience, (Vol.11) Current Topics in Behavioral Neurosciences. Springer Publishing: 289-320.
 
-    `Differential effect of age on hippocampal subfields assessed using a new high-resolution 3T MR sequence.
-    <http://www.ncbi.nlm.nih.gov/pubmed/20600996>`_
+    LOCKHART, S. N., Mayda, A. V., Roach, A. E., Fletcher, E., Carmichael, O., Maillard, P., Schwarz, C. G., Yonelinas, A. P., Ranganath, C., & DeCarli, C. (2012). Episodic Memory Function is Associated with Multiple Measures of White Matter Integrity in Cognitive Aging. Frontiers in Human Neuroscience, 6(56). PMC3305887.  `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/22438841>`_
+
 
 ++++
 
+
     |hwamee| Hwamee Oh
 
+    hwameeoh at berkeley dot edu
 
     My research in the Jagust lab examines cognitive, structural, and
     functional alterations in relation to normal aging and pathological 
@@ -108,7 +107,7 @@ Fellows
 
 ++++
 
-    |steffi| Stephanie Schreiber
+    |steffi| Stefanie Schreiber
 
     At the Otto-von-Guericke University, Magdeburg, Germany (head: Prof. Hans-Jochen Heinze) I am working as neurologist, received my PhD in 2007 and finished my habilitation in 2014. During my habilitation I investigated the natural course of cerebral small vessel disease and its interplay with beta-amyloid-pathology in a hypertensive rat model. I came to the Jagust lab to learn biomarker PET and multimodal imaging techniques. My research in the lab will potentially focus on the interplay between biomarkers of neurodegeneration and of cerebral small vessel disease in the non-demented elderly.
 
@@ -119,17 +118,6 @@ Fellows
     2013 Mar;47(3):385-95. http://www.ncbi.nlm.nih.gov/pubmed/23381770
 
     Schreiber et al. The pathologic cascade of cerebrovascular lesions in SHRSP: is erythrocyte accumulation an early phase? J Cereb Blood Flow Metab. 2012 Feb;32(2):278-90.  http://www.ncbi.nlm.nih.gov/pubmed/21878945
-
-++++
-
-    |monika| Monika Varga Doležalová
-
-    Working as a psychologist in Neurology clinic in my homeland I felt it would 
-    be meaningful to zoom out and see what was really happening in a big and 
-    progressive world of neuroscience. This has happened to be real thanks to a
-    Fulbright grant. Being a visiting student researcher, my main interest is 
-    cognitive neuroscience, but cannot wait to learn more about neuroimaging!
-
 
 ++++
 
@@ -153,33 +141,13 @@ Fellows
 
     **Papers**
 
-    The nature of memory failure in mild cognitive impairment: examining association with neurobiological markers and effect of progression. Villeneuve S, Belleville S. Neurobiol Aging. 2011 Nov 14. [Epub ahead of print] http://www.ncbi.nlm.nih.gov/pubmed/22088679
+    Villeneuve et al., Vascular risk and Aβ interact to reduce cortical thickness in AD vulnerable brain regions. Neurology. 2014;83:40-47 
+    http://www.ncbi.nlm.nih.gov/pubmed/24907234
 
-    Villeneuve et al. Cortical thickness mediates the effect of β-amyloid on episodic memory. Neurology. 2014 Jan 31. [Epub ahead of print] http://www.ncbi.nlm.nih.gov/pubmed/24489134
+    Villeneuve et al. Cortical thickness mediates the effect of β-amyloid on episodic memory. Neurology. 2014;82:761-767 
+    http://www.ncbi.nlm.nih.gov/pubmed/24489134
 
 ++++
-
-
-    |miranka| Miranka Wirth
-    
-    `Personal Website <https://sites.google.com/site/mirankawirth>`_
-    
-    I am a postdoctoral fellow at the Jagust Lab (PI: Prof. William Jagust), 
-    Helen Wills Neuroscience Center, University of California, Berkeley.  
-    
-    A central focus of my research work is to understand normal aging, detect 
-    pathological aging and identify life-style as well as genetic factors that 
-    contribute to differential aging of neural and cognitive functions. 
-    
-    I have trained in multimodal neuroimaging, including structural and functional 
-    task- and resting-state MRI, EEG, PET and non-invasive stimulation techniques, 
-    such as tDCS and TMS. At the Jagustlab, I am using biomarkers of PIB and
-    FDG PET together with structural MRI to study the stage of preclinical 
-    Alzheimer's disease in cognitively normal older individuals.
-
-    **Posters**
-
-    `AAIC 2013 poster (pdf) <_static/posters/wirth_aaic2013.pdf>`_
 
 
 Visiting Scholars
@@ -202,11 +170,6 @@ Visiting Scholars
 	three variants of primary progressive aphasia
 
 ++++
-
-    
-++++
-
-	
 	
 
 Graduate Students
@@ -214,16 +177,19 @@ Graduate Students
 
 ++++
 
-    |begany| Katelyn Begany
+    |begany| Katelyn Arnemann (Begany)
 
-    Katelyn has joined our lab and plans to continue working on relating 
-    FDG with network modularity in an older cognitively normal cohort.
+    I'm a PhD candidate in the Neuroscience Program at UC Berkeley.
+    Employing multimodal brain imaging of age-/disease-related perturbations, 
+    my research aims to uncover (ideally fundamental) links between brain 
+    networks, cognition, and pathology.
+
 
 ++++
 
     |shawn2| Shawn Marks
 
-    |marksmail|
+    shawn dot marks2 at gmail dot com
 
 
     Back for another round of research, stay tuned for exciting findings.
@@ -232,15 +198,6 @@ Graduate Students
 Staff
 =====
 
-
-    |samia| Samia K. Arthur-Bentil
-
-    Samia pioneers the reconstruction of the lab's PET scan data and 
-    is here to explore the mystery of neurodegenerative disease 
-    via command line interfaces. When not bonding with her 
-    `Sun <http://en.wikipedia.org/wiki/Sun_Microsystems>`_, 
-    she enjoys dancing, searching for her new favorite restaurant 
-    and having intellectual conversations about bad television.
 
 ++++	
 
@@ -251,29 +208,6 @@ Staff
 	
 ++++
 
-    |brendan| Brendan Cohn-Sheehy
-
-    Brendan is a recent UC Berkeley graduate who is looking forward 
-    to an exciting career in neurology practice and research, and 
-    is interested in everything from neurodegeneration to the     
-    cognitive neuroscience of music.  When not analyzing PET and MRI 
-    data, he writes, records, and performs music and poetry.
-
-    **Posters**
-
-    `AAIC 2013 talk (pdf) <_static/posters/brendan_aaic2013_talk.pdf>`_
-
-    `AAIC 2013 poster (pdf) <_static/posters/brendan_aaic2013_poster.pdf>`_
-
-++++
-
-    |sam| Sam Crowley
-
-    Sam is spends his time in the lab on neuropsychological testing and helping with PET scans.  
-    When not working he can be found scarfing down a bratwurst from Top Dog or flipping through the vinyl at Amoeba.
-
-
-++++
 
     |allie| Allie Fero
 
@@ -296,6 +230,8 @@ Staff
 
     `Research and Background <http://smlandau.org>`_
 
+    landau at berkeley dot edu
+
     **Papers**
 
     [Landau2012]_ Lifetime cognitive engagement is associated with low beta-amyloid deposition
@@ -316,21 +252,37 @@ Staff
 
     Kris is a radiologist specialist working to collect PET data.
 
+++++
+
+    |daniel| Daniel Schonhaut
+
+    I studied psychology at UCLA and am here to learn fMRI data analysis and 
+    anything else I can pick up along the way. Other things I am working on right 
+    now include winning my fantasy soccer league without putting Luis Suarez on my 
+    team, trying every kind of coffee from Philz, and guessing what the next season 
+    of American Horror Story will be about.
 
 ++++
 
 	|henry| Henry Schwimmer
 
+    henry dot schwimmer at gmail dot com
 
 	When not in the lab, he can be found shredding the gnar in Tahoe or 
 	hiking the backcountry with his harmonica. 
 	Online chatters beware: he despises emoticons.
 
+++++    
+
+    |vyoma| Vyoma Shah
+
+    As an undergrad here at Cal, I loved the interdisciplinary nature of Cognitive Science. I am fascinated by the intricacies and complexities of a ~3 pound piece of flesh we call the brain. I aim to better understand how it works, and apply these understandings to come up with meaningful innovations in the field of public health. Outside of the lab, you're likely to find me playing Scrabble or Chess, enjoying chai tea, chocolate or cheese, traveling, or just exploring new places in the city with friends.
+
 ++++
         
     |jacob| Jacob Vogel
 
-    Graduated from Hampshire College with a degree in Neuroscience.  Interests include Clinical Neuro, Neuroendocrinology, Neuroimaging and Statistics.  Currently managing Dr. Jagust's lab and investigating subtle links between cognition and brain pathology in normally aging individuals.  When not nerding out, you can find him recording music or watching a Phillies game.
+    Graduated from Hampshire College with a degree in Neuroscience.  Interests include Neuroimaging, Statistics, Clinical Neuro, and Neuroendocrinology.  Currently managing Dr. Jagust's lab and investigating subtle links between cognition and brain pathology in normally aging individuals.  When not nerding out, you can find him recording music or watching a Phillies game.
 
 
 
@@ -347,11 +299,6 @@ Undergraduate Assistants
     working, she loves to discover new bands and go concert hoping.
 
 ++++
-
-
-    |jessica| Jessica Dai
-
-++++
     
     |april| April Kiyomi Hishinuma
 
@@ -363,35 +310,14 @@ Undergraduate Assistants
 	|andreas| Andreas Lazaris
 
 ++++
+    
+    |ghassan| Ghassan Makhoul
 
-	|tanu| Tanu Patel
-
-++++
-
-    |daniel| Daniel Schonhaut
-
-    I studied psychology at UCLA and am here to learn fMRI data analysis and 
-    anything else I can pick up along the way. Other things I am working on right 
-    now include winning my fantasy soccer league without putting Luis Suarez on my 
-    team, trying every kind of coffee from Philz, and guessing what the next season 
-    of American Horror Story will be about.
-
-++++
-
-    |helaine| Helaine St. Amant
-
-    Helaine is a senior undergraduate student majoring in Molecular and 
-    Cell Biology with an emphasis in Neurobiology.
-    She is fascinated by the complexity of the brain and hopes to 
-    learn as much as she can before attending medical
-    school. Aside from school and the lab, she likes to spend her 
-    free time by getting outside and relaxing with friends
-    and family. Go Bears!
+    I am a Junior at UC Berkeley, studying Molecular Cell Biology with a focus in Neurobiology. I'm also hoping to finish a Computer Science minor. Starting the Fall 2014 semester, I will be facilitating the Kanye West DeCal (sign up!). When I'm not working, I take my time cooking nice meals, go on long bike rides, and swim as much as I can.
 
 ++++
 
     |gautam| Gautam Tammewar
-
 
 ++++
 
@@ -400,13 +326,94 @@ Undergraduate Assistants
     I'm a 3rd year majoring in MCB - Neuro. Aspiring to attend pharmacy 
     school after graduating. I love studying about
     the brain and cognitive function. I hope to attain a MA/PhD in 
-    Neuroscience in the future.  
+    Neuroscience in the future. 
+
+++++
+
+    |annez| Anne Zeng
+
+    I am an undergraduate student at UC Berkeley expecting to graduate May 2017 with a major in Bioengineering.
 
 Alumni
 ======
 
+    |renaud| Renaud La Joie
+
+    `Research Gate <https://www.researchgate.net/profile/Renaud_La_Joie>`_
+
+    `Google Scholar <http://scholar.google.fr/citations?user=zQ2VLFkAAAAJ>`_
+
+    Renaud joined our lab after pursuing a PhD with `Gaël Chételat
+    <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_
+    which was the beginning of what we hope is a long term collaboration.
+
+    He has since betrayed us to go back to France to waste his time in 
+    med school in Lyon.  His incredible wealth of information, collaborative
+    spirit, and dashing good looks will be sorely missed in the Jagust Lab.
+
+
+    **Publications**
+
+    `Region-specific hierarchy between atrophy, hypometabolism, and β-amyloid (Aβ) load in Alzheimer's disease dementia.
+    <http://www.ncbi.nlm.nih.gov/pubmed/23152610>`_
+
+    `Differential effect of age on hippocampal subfields assessed using a new high-resolution 3T MR sequence.
+    <http://www.ncbi.nlm.nih.gov/pubmed/20600996>`_
+
+++++
+
+   |sam| Sam Crowley
+
+    Sam is on his way to pursue a PhD in Clinical Pysch at Florida State
+    University.  Later gator!
+
+++++
+
+    |monika| Monika Varga Doležalová
+
+    Monika has returned to her hospital in Slovakia.  She leaves behind
+    some excellent research on subjective memory complaint, and a lab full
+    of admirers.  
+++++
+
+    |brendan| Brendan Cohn-Sheehy
+
+    Brendan is on his way to UC-Davis's medical school to pursue an MD-PhD program, 
+    which he hopes will train him to become one of the world's great Neurologists.
+
+    **Posters**
+
+    `AAIC 2013 talk (pdf) <_static/posters/brendan_aaic2013_talk.pdf>`_
+
+    `AAIC 2013 poster (pdf) <_static/posters/brendan_aaic2013_poster.pdf>`_
+
+++++
+  
+    |samia| Samia K. Arthur-Bentil
+
+    Samia pioneered the reconstruction of the lab's PET scan data and 
+    came to the lab to explore the mystery of neurodegenerative disease 
+    via command line interfaces. She is now attending Brown University's
+    medical school, and is surely impressing everybody as always.
+
+++++
+
+    |helaine| Helaine St. Amant
+
+    Helaine graduated with a degree in Molecular and Cell Biology with an 
+    emphasis in Neurobiology.  She has now embarked on the long road to
+    becoming a fantastic medical doctor.
+
+
+++++
+
     |cindee| Cindee Madison 
 
+
+    Cindee has moved on the magical world of industry where she is currently
+    working on a secret project that will inevitably blow your mind.  Her 
+    invaluable programming expertise and deep kindness will always be 
+    rememberd as an indelible feature of the Jagust Lab!     
 
     She codes and loves `Python <http://www.python.org/>`_ 
     
@@ -420,6 +427,37 @@ Alumni
     Or join me at the `py4science meeting <http://python.berkeley.edu/py4science/>`_
     
     my blog `rationalgirl.com <http://www.rationalgirl.com/blog/html/index.html>`_
+
+++++
+
+    |miranka| Miranka Wirth
+    
+    `Personal Website <https://sites.google.com/site/mirankawirth>`_
+    
+    Miranka was a postdoctoral fellow at the Jagust Lab.  She is now in Germany
+    and is soon to make a research lab very, very lucky to have her!   
+    
+    The central focus of her work was to understand normal aging, detect 
+    pathological aging and identify life-style as well as genetic factors that 
+    contribute to differential aging of neural and cognitive functions. 
+    
+    She has trained in multimodal neuroimaging, including structural and functional 
+    task- and resting-state MRI, EEG, PET and non-invasive stimulation techniques, 
+    such as tDCS and TMS. At the Jagustlab, she used biomarkers of PIB and
+    FDG PET together with structural MRI to study the stage of preclinical 
+    Alzheimer's disease in cognitively normal older individuals.
+
+    **Posters**
+
+    `AAIC 2013 poster (pdf) <_static/posters/wirth_aaic2013.pdf>`_
+
+++++
+
+    |jessica| Jessica Dai
+
+++++
+
+    |tanu| Tanu Patel
 
 ++++
 
@@ -448,7 +486,7 @@ Alumni
 
 ++++
 
-    |samg| Sam Greene
+    Sam Greene
 
 
 ++++
@@ -500,12 +538,12 @@ Alumni
 
 ++++
 
-	|caleb| Caleb Wang
+	Caleb Wang
 
 
 ++++
 
-    |gracetmt| Grace Tang
+    Grace Tang
 
     Grace presented a wonderful paper for her Honors thesis.
 
@@ -519,7 +557,7 @@ Alumni
 
 ++++
 
-        |tricia| Tricia Ngoon
+        Tricia Ngoon
 
         Tricia graduated, and is now working as a Research Assistant 
         at the Stanford Cognitive and Systems Neuroscience
@@ -634,7 +672,8 @@ Alumni
 	Natalie Marchant
 
 
-	Natalie has left us for an amazing globe-stomping adventure.  
+	We are proud to report that Natalie is now Lecturer (Assistant Professor) in Old Age Psychiatry at The Institute of Psychiatry, King's College London   https://kclpure.kcl.ac.uk/portal/natalie.marchant.html  
+    
 
 	**Papers**
 
@@ -938,7 +977,7 @@ Alumni
 
 .. |caleb| image:: /mugs/caleb.jpg
 
-.. |begany| image:: /mugs/begany.jpg
+.. |begany| image:: /mugs/katie_new.jpg
 
 .. |justin| image:: /mugs/justin.jpg
 
@@ -969,6 +1008,14 @@ Alumni
 .. |steffi| image:: /mugs/steffi.jpg
 
 .. |daniel| image:: /mugs/daniel.jpg
+
+.. |annez| image:: /mugs/annez.jpg
+
+.. |ghassan| image:: /mugs/Ghassanm.jpg
+
+.. |vyoma| image:: /mugs/vyomas.jpg
+
+.. |saml| image:: /mugs/saml.jpg
 
 
 
