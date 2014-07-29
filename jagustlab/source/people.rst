@@ -20,6 +20,14 @@ Faculty
 Fellows
 =========
 
+    |berry| Anne Berry
+
+    My research focuses on understanding why cognitive flexibility, the ability to dynamically respond to new task demands, declines with age. I am examining factors such as decreases in brain volume, dysregulation of the neurotransmitter dopamine, and changes in brain network activity.
+ 
+    I completed my PhD at the University of Michigan where I worked with Drs. Cindy Lustig and Martin Sarter. Broadly, my doctoral research investigated the contribution of the neurotransmitter acetylcholine to the control of attention.
+
+
+++++
 
     |elman| Jeremy Elman
 
@@ -40,7 +48,7 @@ Fellows
 
     My research project in the Jagust lab examines neuroimaging biomarkers of preclinical Alzheimer’s Disease (AD). Preclinical progression along the AD pathological cascade may be inadvertently conflated with the normal aging process in many studies seeking to understand the causes of gradual cognitive decline late in life. Therefore, our goal is to investigate effects of tau and Aβ accumulation (measured using PET) on structural connectivity between these regions (measured using MRI and DTI), and the relative effects of these brain differences on memory performance.
     
-    I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance
+    I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance.
  
     **Selected publications**
 
@@ -226,13 +234,17 @@ Staff
 ++++
 
     |susan| Susan Landau
-
+    Assistant Research Scientist
 
     `Research and Background <http://smlandau.org>`_
 
-    landau at berkeley dot edu
+    slandau at berkeley dot edu
 
     **Papers**
+    
+    [Landau2014]_ Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers
+
+    [Landau2013]_ Comparing Positron Emission Tomography Imaging and Cerebrospinal Fluid Measurements of b-Amyloid
 
     [Landau2012]_ Lifetime cognitive engagement is associated with low beta-amyloid deposition
 
@@ -240,10 +252,16 @@ Staff
 
     [Landau2012_3]_ Amyloid-b Imaging with Pittsburgh Compound B and Florbetapir: Comparing Radiotracers and Quantification Methods
 
+    [Landau2010]_ Comparing predictors of conversion and decline in mild cognitive impairment
+
     [Landau2009_2]_ Associations between cognitive, functional, 
     and FDG-PET measures of decline in AD and MC
 
+++++
 
+    |andreas| Andreas Lazaris
+
+    Andreas is a recent graduate of UC Berkeley with a degree in Cognitive Science, having completed his honors thesis in the Jagust Lab. After working as an undergraduate in the Jagust Lab for 3 years, Andreas has joined Gil's team at the UCSF Memory and Aging Center as a Clinical Research Coordinator, working primarily with PET imaging. Outside of the world of neurology, you can catch Andreas riding his bike from cafe to cafe throughout the East Bay and hitting a local live show whenever possible.
 
 ++++
 
@@ -299,21 +317,28 @@ Undergraduate Assistants
     working, she loves to discover new bands and go concert hoping.
 
 ++++
+
+    |dino| Dino Digma
+
+    I am a third year student at UC Berkeley. I aspire to do clinical research in the future.
+
+++++
     
     |april| April Kiyomi Hishinuma
 
     April is majoring in cognitive science with an emphasis in neuroscience. Her love for the brain has lead her to pursue an occupation in both research and health care. She aspires to learn as much as she can about the brain before attending medical school. When not found studying, she will usually be spotted working out at the gym, singing with her guitar, or eating with friends.   
-
-
-++++
-
-	|andreas| Andreas Lazaris
 
 ++++
     
     |ghassan| Ghassan Makhoul
 
     I am a Junior at UC Berkeley, studying Molecular Cell Biology with a focus in Neurobiology. I'm also hoping to finish a Computer Science minor. Starting the Fall 2014 semester, I will be facilitating the Kanye West DeCal (sign up!). When I'm not working, I take my time cooking nice meals, go on long bike rides, and swim as much as I can.
+
+++++
+
+    |peng| Ollie Peng
+
+    Hi! I'm a Junior double majoring in bioengineering and electrical engineering and computer science. I'm fascinated by the possibility in the future that humans will be able to control robotic limbs and prosthesis with their minds, and as a result I love learning how the brain works.  I also love cooking jambalaya, impressing myself on the piano, and lifting heavy things in the gym and putting them back down.
 
 ++++
 
@@ -453,15 +478,15 @@ Alumni
 
 ++++
 
-    |jessica| Jessica Dai
+    Jessica Dai
 
 ++++
 
-    |tanu| Tanu Patel
+    Tanu Patel
 
 ++++
 
-    |scott| Scott Roberts
+    Scott Roberts
 
     Scott Roberts, PhD came to the Jagust Lab from the University of Michigan
     School of Public Health, where he is Associate Professor of Health Behavior
@@ -477,7 +502,7 @@ Alumni
 
 ++++
 
-    |andrea|   Andrea Long
+    Andrea Long
 
     Andrea has been called back to a position in a top secret lab who 
     existence is still denied. 
@@ -492,7 +517,7 @@ Alumni
 ++++
 
 
-    |tad| Tad Haight
+    Tad Haight
 
     Tad has moved on to a post-doc at the NIH on the other side of the states.
     Everyone will miss his insight on statistical analysis.
@@ -512,7 +537,7 @@ Alumni
 
 ++++
 
-    |manja| Manja Lehmann
+    Manja Lehmann
 
     Manja was a visiting research scholar from London (UK) who joined 
     the Memory and Aging Center at UCSF in October 2011. 
@@ -1017,6 +1042,11 @@ Alumni
 
 .. |saml| image:: /mugs/saml.jpg
 
+.. |dino| image:: /mugs/dino.jpg
+
+.. |berry| image:: /mugs/berry.jpg
+
+.. |peng| image:: /mugs/ADPET.png
 
 
 

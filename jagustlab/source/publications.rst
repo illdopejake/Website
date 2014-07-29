@@ -89,7 +89,7 @@ Publication Timeline
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24656834>`_
 
-.. [Wirth2014]
+.. [Wirth2014_2]
 
     **Gene-Environment interactions: Lifetime cognitive activity, ApoE genotype and beta-amyloid burden** 
 
@@ -113,6 +113,17 @@ Publication Timeline
     *Jagust W*
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/23352159>`_
+
+.. [Landau2013]
+
+    **Comparing Positron Emission Tomography Imaging and Cerebrospinal Fluid Measurements of b-Amyloid**
+
+    Ann Neurol. 2013 Dec;74(6):826-36
+
+    *Landau SM, Lu M, Joshi AD, Pontecorvo M, Mintun MA, Trojanowski JQ, Shaw LM, Jagust WJ for the Alzheimer’s Disease Neuroimaging Initiative*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Amyloid+CSF+landau>`_
+
 
 .. [Lehmann2013]
 

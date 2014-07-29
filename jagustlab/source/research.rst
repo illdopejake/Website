@@ -62,6 +62,15 @@ Specific projects in the lab include:
 References
 ~~~~~~~~~~
 
+    [Villeneuve2014]_ Cortical thickness mediates the effect of b-amyloid on episodic memory 
+
+    [Wirth2014_2]_ Gene-Environment interactions: Lifetime cognitive activity, ApoE genotype and beta-amyloid burden
+
+    [Oh2013_2]_ Frontotemporal Network Connectivity during Memory Encoding Is Increased with Aging and Disrupted by
+    Beta-Amyloid
+
+    [Wirth2013]_ Associations between Alzheimer disease biomarkers, neurodegeneration, and cognition in cognitively normal older people
+
     [Oh2013]_ Association of gray matter atrophy with age, b-amyloid, and cognition in aging
 
     [Marchant2013]_ The aging brain and cognition: Contribution of vascular injury and Ab to mild cognitive dysfunction
@@ -106,6 +115,10 @@ Subjects are studied approximately annually with repeated scans and cognitive te
 
 References
 ~~~~~~~~~~
+
+    [Landau2014]_ Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers
+
+    [Landau2013]_ Comparing Positron Emission Tomography Imaging and Cerebrospinal Fluid Measurements of b-Amyloid
 
     [Jagust2012]_ Apolipoprotein E, not fibrillar b-amyloid, reduces cerebral glucose metabolism in normal aging.
 

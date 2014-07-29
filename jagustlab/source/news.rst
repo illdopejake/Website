@@ -4,13 +4,34 @@
  News
 ======
 
+July (2014)
+
+The Jagust Lab and `Chetelat Lab <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_ have begun a trans-atlantic collaboration in the form of regular meetings and idea exchanges.  With our powers combined, we are...
+
+THE JETLAG LAB
+
+.. image:: mugs/JetLag.JPG
+
+Our goal: to combine ideas and knowledge to mutually benefit from one another and advance our field!
+
+Our main nemesis: a 9 hour time difference.
+
+Stay tuned for the fruits of our collaboration!
+
+p.s. Members of the French lab can be identified by their drink choice in the photo ;-) 
+
+
+++++
+
+July (2014)
+
 **AWARD**
 
 Congratulations to Hwamee for winning the de Leon prize in Neuroimaging for best paper of the year!  
 
 http://www.alz.org/aaic/about/awards.asp
 
-The award was presented at the by ISTAART at the AAIC annual conference in Copenhagen.  Hwamee one the
+The award was presented at the by ISTAART at the AAIC annual conference in Copenhagen.  Hwamee won the
 award for her paper:
 
 **Frontotemporal network connectivity during memory encoding is increased with aging and disrupted by beta-amyloid**
