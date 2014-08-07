@@ -4,6 +4,12 @@
  News
 ======
 
+August (2014)
+
+Big congrats to Steffi and her husband Frank, on welcoming their son Fabian to the world!  Little Fabian looks healthy and happy, and gets to enjoy a life with dual german-american citizenship!
+
+++++
+
 July (2014)
 
 The Jagust Lab and `Chetelat Lab <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_ have begun a trans-atlantic collaboration in the form of regular meetings and idea exchanges.  With our powers combined, we are...
@@ -61,41 +67,9 @@ Big congrats to Katie for passing her qualifying examination! She is now an offi
 
 ++++
 
-**AWARD**
-
-.. image:: mugs/billaward.jpg
-
-Professor Jagust is the recipient of the 2013 American Academy of Neurology's Potamkin Prize for Research in Pick's, Alzheimer's, and Related Diseases
-
-http://sph-publications.berkeley.edu/bho/2013/01/jagust-wins-potamkin-prize/
-
-http://www.alzforum.org/new/detail.asp?id=3388
-
-++++
-
-Special shout out to Bryce Mander and Professor Matt Walker for their Nature Neruoscience Paper 
-
-http://www.nytimes.com/2013/01/28/health/brain-aging-linked-to-sleep-related-memory-decline.html?_r=0
-
-++++
-
-Professor Jagust and Dr. Susan Landau were in the News in response to this recent paper:
-
-`Association of Lifetime Cognitive Engagement and Low β-Amyloid Deposition  <http://www.ncbi.nlm.nih.gov/pubmed/22271235>`_
-
-
-`NYTimes: Exercising an Aging Brain  <http://www.nytimes.com/2012/03/08/business/retirementspecial/retirees-are-using-education-to-exercise-an-aging-brain.html?_r=2&scp=2&sq=denise%20grady&st=cse>`_
-
-
-`KQED Story <http://blogs.kqed.org/stateofhealth/2012/01/23/can-games-and-reading-keep-alzheimers-at-bay/>`_
-
-`Link to ABC Story <http://abclocal.go.com/kgo/video?id=8516270>`_
-
-
 (August 2013)
 
 We are all excited to give best wishes to Susan and Pierre, welcoming their new adorable son Benjamin.
-
 
 ++++
 
@@ -106,10 +80,34 @@ Shawn Marks has passed his quals!! (Way to go Shawn!)
 And Katelyn Begany is officially joining the lab as a graduate student.
 We are all excited to see her work on graph theory!
 
+++++
+
+March (2013)
+
+**AWARD**
+
+.. image:: mugs/billaward.jpg
+
+Professor Jagust is the recipient of the 2013 American Academy of Neurology's Potamkin Prize for Research in Pick's, Alzheimer's, and Related Diseases
+
+http://neuroscience.berkeley.edu/2013/news/william-jagust-is-the-co-recipient-of-the-2013-potamkin-prize-for-alzheimer%E2%80%99s-research-awarded-by-the-american-academy-of-neurology
+
+http://www.alzforum.org/new/detail.asp?id=3388
+
+++++
+
 
 (Feb 2013)
 
 Jeremy Elman and his wife welcome their son Henry. It turns out the extra time he took in coming was put to good use as he weighed in at 8 lbs. 1 oz. - or about a pound and some spare change more than any of the doctors were expecting. Erin was an absolute champ and Henry is healthy, happy and - if I do say so myself - incredibly cute. 
+
+++++
+
+January (2013)
+
+Special shout out to Bryce Mander and Professor Matt Walker for their Nature Neruoscience Paper 
+
+http://www.nytimes.com/2013/01/28/health/brain-aging-linked-to-sleep-related-memory-decline.html?_r=0
 
 ++++
 
@@ -156,6 +154,8 @@ It has been busy up at LBL, here is a pic of our new scanner before it was insta
 
 ++++
 
+March (2012)
+
 Sample of News Stories related to recent paper
 
 Arch Neurol. 2012 Jan 23. [Epub ahead of print]
@@ -163,6 +163,16 @@ Arch Neurol. 2012 Jan 23. [Epub ahead of print]
 **Association of Lifetime Cognitive Engagement and Low β-Amyloid Deposition.**
 
 *Landau SM, Marks SM, Mormino EC, Rabinovici GD, Oh H, O'Neil JP, Wilson RS, Jagust WJ.*
+
+    Professor Jagust and Dr. Susan Landau were in the News in response to this recent paper:
+
+
+    `NYTimes: Exercising an Aging Brain  <http://www.nytimes.com/2012/03/08/business/retirementspecial/retirees-are-using-education-to-exercise-an-aging-brain.html?_r=2&scp=2&sq=denise%20grady&st=cse>`_
+
+
+    `KQED Story <http://blogs.kqed.org/stateofhealth/2012/01/23/can-games-and-reading-keep-alzheimers-at-bay/>`_
+
+    `Link to ABC Story <http://abclocal.go.com/kgo/video?id=8516270>`_
 
 In the News
    

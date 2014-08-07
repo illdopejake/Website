@@ -225,15 +225,8 @@ Staff
 
 ++++
 
-    |pia| Pia Ghosh
-
-    Pia works with Gil to pair clinical findings with brain 
-    imaging analysis to improve early stage diagnosis. 
-    Traveling to new places and music keep her pulse dancing. 
-
-++++
-
     |susan| Susan Landau
+    
     Assistant Research Scientist
 
     `Research and Background <http://smlandau.org>`_
@@ -344,6 +337,8 @@ Undergraduate Assistants
 
     |gautam| Gautam Tammewar
 
+    I'm a senior at UC Berkeley with a major in Molecular and Cell Biology with a Neurobiology emphasis. I am currently working on a senior thesis regarding the differences between the variants of Alzheimer's Disease. When not in lab, I am often keeping up with the latest basketball and soccer news, listening to music and learning to play a song on the piano, or playing FIFA. In the future, I hope to attend medical school and continue research as a clinical neuropsychologist.
+
 ++++
 
     |angie| Angie Yi
@@ -361,6 +356,16 @@ Undergraduate Assistants
 
 Alumni
 ======
+
+
+    |pia| Pia Ghosh
+
+    Pia was an instrumental member in helping to build Gil's lab
+    and was an organizing master--so much so that we needed
+    TWO people to replacer her!! She is now gracing our nation's 
+    capital pursuing an MA in Physiology at Georgetown. 
+
+++++
 
     |renaud| Renaud La Joie
 
