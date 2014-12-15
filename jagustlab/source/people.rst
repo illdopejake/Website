@@ -31,17 +31,10 @@ Fellows
 
     |elman| Jeremy Elman
 
+    `Google Scholar <http://scholar.google.com/citations?user=YZ-VP40AAAAJ&hl=en>`_
+
     I received my PhD from UC Berkeley in 2012 under `Arthur Shimamura <http://ist-socrates.berkeley.edu/~shimlab/>`_. My doctoral research investigated contributions of the posterior parietal cortex to episodic memory using fMRI. As part of the Jagust lab, my research focuses on alterations in cognitive performance and multi-modal imaging biomarkers as a function of beta-amyloid deposition employing techniques that include structural MRI, task-based and resting-state fMRI, and PIB-PET.
           
-    **Papers**
-
-    Elman, J. A., Cohn-Sheehy, B. I., & Shimamura, A. P. (2013). Dissociable parietal regions facilitate successful retrieval of recently learned and personally familiar information. Neuropsychologia, 51(4), 573–583. doi:10.1016/j.neuropsychologia.2012.12.013 `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/23287568>`_
-
-    Elman, J. A., Klostermann, E. C., Marian, D. E., Verstaen, A., & Shimamura, A. P. (2012). Neural correlates of metacognitive monitoring during episodic and semantic retrieval. Cognitive, Affective, & Behavioral Neuroscience, 1–11. doi:10.3758/s13415-012-0096-8 `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/22562436>`_
-
-    Elman, J. A., & Shimamura, A. P. (2011). Task relevance modulates successful retrieval effects during explicit and implicit memory tests. NeuroImage, 56(1), 345–353. doi:10.1016/j.neuroimage.2011.02.017 `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/21316476>`_
-
-	
 ++++
 
     |saml| Samuel Lockhart
@@ -115,6 +108,16 @@ Fellows
 
 ++++
 
+    |scholl| Michael Schöll
+
+    michael dot scholl at berkeley dot edu
+
+    `Google Scholar <http://scholar.google.com/citations?user=hEHgZxMAAAAJ&hl=de>`_
+
+    Michael swapped Swedish Västkust with American West Coast to finally see some light on the imaging horizon. Whenever he is not trying to convince people that PET is not an animal, he tries to get his hands on anything musical.
+
+++++
+
     |steffi| Stefanie Schreiber
 
     At the Otto-von-Guericke University, Magdeburg, Germany (head: Prof. Hans-Jochen Heinze) I am working as neurologist, received my PhD in 2007 and finished my habilitation in 2014. During my habilitation I investigated the natural course of cerebral small vessel disease and its interplay with beta-amyloid-pathology in a hypertensive rat model. I came to the Jagust lab to learn biomarker PET and multimodal imaging techniques. My research in the lab will potentially focus on the interplay between biomarkers of neurodegeneration and of cerebral small vessel disease in the non-demented elderly.
@@ -127,35 +130,7 @@ Fellows
 
     Schreiber et al. The pathologic cascade of cerebrovascular lesions in SHRSP: is erythrocyte accumulation an early phase? J Cereb Blood Flow Metab. 2012 Feb;32(2):278-90.  http://www.ncbi.nlm.nih.gov/pubmed/21878945
 
-++++
 
-    |sylvia| Sylvia Villeneuve
-
-    villeneuve dot sylvia at gmail dot com
-
-    Https://sites.google.com/site/villeneuvesylvia/
-
-    I completed a Ph.D. in Neuropsychology at University of Montreal in 
-    2011, with Dr. Sylvie Belleville. My doctoral work focused on the 
-    impact of vascular diseases on the cognitive profile of persons with 
-    mild cognitive impairment. 
-
-    My main goal in the Jagust lab is to learn 
-    PIB-PET and FDG-PET imaging techniques. My research will examine the 
-    interaction between beta-amyloid deposition, glucose metabolism, 
-    vascular diseases and genetic factors, and their impact on 
-    neuropsychological measures and cognitive status.
-
-
-    **Papers**
-
-    Villeneuve et al., Vascular risk and Aβ interact to reduce cortical thickness in AD vulnerable brain regions. Neurology. 2014;83:40-47 
-    http://www.ncbi.nlm.nih.gov/pubmed/24907234
-
-    Villeneuve et al. Cortical thickness mediates the effect of β-amyloid on episodic memory. Neurology. 2014;82:761-767 
-    http://www.ncbi.nlm.nih.gov/pubmed/24489134
-
-++++
 
 
 Visiting Scholars
@@ -183,7 +158,6 @@ Visiting Scholars
 Graduate Students
 =================
 
-++++
 
     |begany| Katelyn Arnemann (Begany)
 
@@ -207,6 +181,10 @@ Staff
 =====
 
 
+    |nagehan| Nagehan Ayakta
+
+    I recently graduated from Cal after doing my honors thesis in the Jagust Lab on the pattern of beta-amyloid deposition. Now after an exciting summer traveling in Europe, I am back in the lab working with Gil Rabinovici on processing exciting PET data, including PIB, FDG, and tau. Outside of work, I love to cook, travel, and read.
+
 ++++	
 
 	|suzanne| Suzanne Baker
@@ -216,6 +194,11 @@ Staff
 	
 ++++
 
+    |faria| Jamie Faria
+
+    Jamie is a recent graduate from the newest UC campus, Merced, with a B.S. in Cognitive Science. She is now assisting in PET processing and is particularly interested in eventually continuing her education in brain sciences research. She loves animals, especially her family’s two Swedish Vallhunds, Fox and Goose, and ferocious cat, Darwin. When away from the lab she can be found watching sports, cooking yummy meals, and enjoying the outdoors.
+
+++++
 
     |allie| Allie Fero
 
@@ -303,14 +286,6 @@ Undergraduate Assistants
 ========================
 
 
-    |nagehan| Nagehan Ayakta
-
-    Double majoring in MCB Neuroscience and Psychology; fascinated with the brain and hopes to receive
-    a Ph. D. in neuropsychology to research why people behave the way they do. Outside of school and
-    working, she loves to discover new bands and go concert hoping.
-
-++++
-
     |dino| Dino Digma
 
     I am a third year student at UC Berkeley. I aspire to do clinical research in the future.
@@ -329,15 +304,88 @@ Undergraduate Assistants
 
 ++++
 
+    |Sharada| Sharada Narayan
+
+    I'm a junior studying Public Health and English, but I'm eager to learn about anything and everything. I'm particularly interested in exploring how computational methods can be used to better understand the brain and the progression of aging. In my free time, I enjoy reading, writing, and giggling at lame puns (the real reason I enjoy Shakespeare so much).
+
+++++
+
+    |stacey| Stacey Jou
+
+    Stacey is a third year majoring in Molecular and Cell Biology with an emphasis in Neurobiology. She is particularly interested in clinical studies of the brain and hopes to attend medical school in the future. Stacey also enjoys spending her time sketching still-life and throwing around a frisbee.
+
+++++
+
+    |matta| George Matta
+
+    George is a third year Public Health major, interested in mental and neurological health. He is more than certain that he will eventually be resurrected as a zombie--he just loves brains that much.    
+
+++++
+
     |peng| Ollie Peng
 
     Hi! I'm a Junior double majoring in bioengineering and electrical engineering and computer science. I'm fascinated by the possibility in the future that humans will be able to control robotic limbs and prosthesis with their minds, and as a result I love learning how the brain works.  I also love cooking jambalaya, impressing myself on the piano, and lifting heavy things in the gym and putting them back down.
 
 ++++
 
+    |schuyler| Schuyler Stoller
+
+    I am an undergrad here at UC Berkeley intending to major in MCB with a Neurobiology emphasis. I plan on pursuing a career in research and/or medicine, depending on how I fare for the next couple of years.
+
+++++
+
     |gautam| Gautam Tammewar
 
     I'm a senior at UC Berkeley with a major in Molecular and Cell Biology with a Neurobiology emphasis. I am currently working on a senior thesis regarding the differences between the variants of Alzheimer's Disease. When not in lab, I am often keeping up with the latest basketball and soccer news, listening to music and learning to play a song on the piano, or playing FIFA. In the future, I hope to attend medical school and continue research as a clinical neuropsychologist.
+
+++++
+
+    |annez| Anne Zeng
+
+    I am an undergraduate student at UC Berkeley expecting to graduate May 2017 with a major in Bioengineering.
+
+Alumni
+======
+
+    |sylvia| Sylvia Villeneuve
+
+    villeneuve dot sylvia at gmail dot com
+
+    Https://sites.google.com/site/villeneuvesylvia/
+
+    Sylvia is currently completing a postdoc at Northwestern, and has
+    recently been accepted for a tenure-track position at McGill!! We
+    will miss her energy and enthusiasm, but we're happy she's finally
+    going home!
+
+    Sylvia completed a Ph.D. in Neuropsychology at University of Montreal in 
+    2011, with Dr. Sylvie Belleville. Her doctoral work focused on the 
+    impact of vascular diseases on the cognitive profile of persons with 
+    mild cognitive impairment. 
+
+    Her main goal in the Jagust lab was to learn 
+    PIB-PET and FDG-PET imaging techniques. Her research examined the 
+    interaction between beta-amyloid deposition, glucose metabolism, 
+    vascular diseases and genetic factors, and their impact on 
+    neuropsychological measures and cognitive status.
+
+
+    **Papers**
+
+    Villeneuve et al., Vascular risk and Aβ interact to reduce cortical thickness in AD vulnerable brain regions. Neurology. 2014;83:40-47 
+    http://www.ncbi.nlm.nih.gov/pubmed/24907234
+
+    Villeneuve et al. Cortical thickness mediates the effect of β-amyloid on episodic memory. Neurology. 2014;82:761-767 
+    http://www.ncbi.nlm.nih.gov/pubmed/24489134
+
+++++
+
+    |pia| Pia Ghosh
+
+    Pia was an instrumental member in helping to build Gil's lab
+    and was an organizing master--so much so that we needed
+    TWO people to replacer her!! She is now gracing our nation's 
+    capital pursuing an MA in Physiology at Georgetown. 
 
 ++++
 
@@ -350,23 +398,6 @@ Undergraduate Assistants
 
 ++++
 
-    |annez| Anne Zeng
-
-    I am an undergraduate student at UC Berkeley expecting to graduate May 2017 with a major in Bioengineering.
-
-Alumni
-======
-
-
-    |pia| Pia Ghosh
-
-    Pia was an instrumental member in helping to build Gil's lab
-    and was an organizing master--so much so that we needed
-    TWO people to replacer her!! She is now gracing our nation's 
-    capital pursuing an MA in Physiology at Georgetown. 
-
-++++
-
     |renaud| Renaud La Joie
 
     `Research Gate <https://www.researchgate.net/profile/Renaud_La_Joie>`_
@@ -374,8 +405,8 @@ Alumni
     `Google Scholar <http://scholar.google.fr/citations?user=zQ2VLFkAAAAJ>`_
 
     Renaud joined our lab after pursuing a PhD with `Gaël Chételat
-    <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_
-    which was the beginning of what we hope is a long term collaboration.
+    <http://gael-chetelat.fr/>`_ which was the beginning of what we hope is 
+    a long term collaboration.
 
     He has since betrayed us to go back to France to waste his time in 
     med school in Lyon.  His incredible wealth of information, collaborative
@@ -428,7 +459,7 @@ Alumni
 
 ++++
 
-    |helaine| Helaine St. Amant
+    Helaine St. Amant
 
     Helaine graduated with a degree in Molecular and Cell Biology with an 
     emphasis in Neurobiology.  She has now embarked on the long road to
@@ -437,7 +468,7 @@ Alumni
 
 ++++
 
-    |cindee| Cindee Madison 
+    Cindee Madison 
 
 
     Cindee has moved on the magical world of industry where she is currently
@@ -452,30 +483,16 @@ Alumni
     Want to learn python??
     `IPython <http://ipython.org/install.html>`_, and very useful `ipython notebooks <http://nbviewer.ipython.org/>`_
     
-    Python in Berkeley `python.berkeley.edu <https://python.berkeley.edu>`_
-
-    Or join me at the `py4science meeting <http://python.berkeley.edu/py4science/>`_
-    
     my blog `rationalgirl.com <http://www.rationalgirl.com/blog/html/index.html>`_
 
 ++++
 
-    |miranka| Miranka Wirth
+    Miranka Wirth
     
     `Personal Website <https://sites.google.com/site/mirankawirth>`_
     
     Miranka was a postdoctoral fellow at the Jagust Lab.  She is now in Germany
     and is soon to make a research lab very, very lucky to have her!   
-    
-    The central focus of her work was to understand normal aging, detect 
-    pathological aging and identify life-style as well as genetic factors that 
-    contribute to differential aging of neural and cognitive functions. 
-    
-    She has trained in multimodal neuroimaging, including structural and functional 
-    task- and resting-state MRI, EEG, PET and non-invasive stimulation techniques, 
-    such as tDCS and TMS. At the Jagustlab, she used biomarkers of PIB and
-    FDG PET together with structural MRI to study the stage of preclinical 
-    Alzheimer's disease in cognitively normal older individuals.
 
     **Posters**
 
@@ -975,7 +992,7 @@ Alumni
 
 .. |jessica| image:: mugs/jessica.jpg
  
-.. |andreas| image:: mugs/andreas.jpg
+.. |andreas| image:: mugs/andreas_2.jpg
 
 .. |tanu| image:: mugs/tanu.jpg
 
@@ -997,7 +1014,7 @@ Alumni
 
 .. |jacob| image:: mugs/jacob.png
 
-.. |nagehan| image:: mugs/nagehan.jpg
+.. |nagehan| image:: mugs/nagehan2.jpg
 
 .. |sam| image:: /mugs/sam.jpg
 
@@ -1053,5 +1070,14 @@ Alumni
 
 .. |peng| image:: /mugs/ADPET.png
 
+.. |sharada| image:: /mugs/Sharada.jpg
 
+.. |stacey| image:: /mugs/stacey.jpg
 
+.. |schuyler| image:: /mugs/schuyler.jpg
+
+.. |faria| image:: /mugs/Faria.jpg
+
+.. |matta| image:: /mugs/matta.jpg
+
+.. |scholl| image:: /mugs/scholl.jpg

@@ -4,6 +4,36 @@
  News
 ======
 
+++++
+
+December (2014)
+
+Another fantastic holiday party at the Jagust Lab.  We forgot to take a picture when everyone was present, but here are some of the last remaining partiers on their way out with the leftovers!
+
+.. image:: mugs/holiday_party_2014.JPG
+
+September (2014)
+
+The Jagust Lab is in the news again! Congratulations to Jeremy, Hwamee and the Jagust Lab for a new `publication <http://www.ncbi.nlm.nih.gov/pubmed/25217827>`_ in Nature Neuroscience!
+
+**Neural compensation in older people with brain amyloid-β deposition**
+
+Nat Neurosci. 2014 Sep 14. doi: 10.1038/nn.3806
+
+*Elman JA, Oh H, Madison CM, Baker SL, Vogel JW, Marks SM, Crowley S, O'Neil JP, Jagust WJ*
+
+
+Here are a few links to news reports that were written about the paper!
+
+`BBC News Health <http://www.bbc.com/news/health-29181843>`_
+
+`The Times Health News <http://www.thetimes.co.uk/tto/health/news/article4206585.ece>`_
+
+`New Scientist Health <http://www.newscientist.com/article/dn26206-brains-can-power-up-to-get-around-alzheimers-plaques.html?cmpid=RSS|NSNS|2012-GLOBAL|online-news#.VBcBJUv4tLp>`_
+
+
+++++
+
 August (2014)
 
 Big congrats to Steffi and her husband Frank, on welcoming their son Fabian to the world!  Little Fabian looks healthy and happy, and gets to enjoy a life with dual german-american citizenship!
@@ -12,7 +42,7 @@ Big congrats to Steffi and her husband Frank, on welcoming their son Fabian to t
 
 July (2014)
 
-The Jagust Lab and `Chetelat Lab <http://www.u1077.caen.inserm.fr/multimodal-imaging-of-brain-pathologies/?lang=en>`_ have begun a trans-atlantic collaboration in the form of regular meetings and idea exchanges.  With our powers combined, we are...
+The Jagust Lab and `Chetelat Lab <http://gael-chetelat.fr/>`_ have begun a trans-atlantic collaboration in the form of regular meetings and idea exchanges.  With our powers combined, we are...
 
 THE JETLAG LAB
 
@@ -124,18 +154,19 @@ To celebrate new people and hold onto the last days of summer, a day of rafting 
 
 ++++
 
-
-**AWARD AWARD**
 (August 2012)
-Prof. William Jagust has been awarded:
 
-.. image:: mugs/jagust_award.jpg
+**AWARD**
+
+Prof. William Jagust has been awarded:
 
 
 **2012 Faculty Award for Excellence in Postdoctoral Mentoring from UC Berkeley**
 
 We all celebrate this well-deserved award! Way to go Bill!!
 (What Would Jagust Do?)
+
+.. image:: mugs/jagust_award.jpg
 
 ++++
 

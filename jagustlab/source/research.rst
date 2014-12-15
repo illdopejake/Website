@@ -62,6 +62,10 @@ Specific projects in the lab include:
 References
 ~~~~~~~~~~
 
+    [Elman2014]_ Neural compensation in older people with brain amyloid-β deposition
+
+    [Elman2014_2]_ Effects of Beta-Amyloid on Resting State Functional Connectivity Within and Between Networks Reflect Known Patterns of Regional Vulnerability
+
     [Villeneuve2014]_ Cortical thickness mediates the effect of b-amyloid on episodic memory 
 
     [Wirth2014_2]_ Gene-Environment interactions: Lifetime cognitive activity, ApoE genotype and beta-amyloid burden

@@ -28,6 +28,25 @@ Publication Timeline
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24525265>`_ 
 
+.. [Elman2014]
+
+    **Neural compensation in older people with brain amyloid-β deposition**
+
+    Nat Neurosci. 2014 Sep 14. doi: 10.1038/nn.3806
+
+    *Elman JA, Oh H, Madison CM, Baker SL, Vogel JW, Marks SM, Crowley S, O'Neil JP, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25217827>`_
+
+.. [Elman2014_2]
+
+    **Effects of Beta-Amyloid on Resting State Functional Connectivity Within and Between Networks Reflect Known Patterns of Regional Vulnerability**
+
+    Cereb Cortex. 2014 Nov 7. pii: bhu259. [Epub ahead of print]
+
+    *Elman JA, Madison CM, Baker SL, Vogel JW, Marks SM, Crowley S, O'Neil JP, Jagust WJ*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25405944>`_
 
 .. [Landau2014]
 
