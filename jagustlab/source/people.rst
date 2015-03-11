@@ -37,22 +37,21 @@ Fellows
           
 ++++
 
-    |saml| Samuel Lockhart
+    |tess| Tess Kornfield
+
+    `Google Scholar <https://scholar.google.com/citations?user=geD3N1IAAAAJ&hl=en>`_
+
+    I completed my PhD in neuroscience at the University of Minnesota in the lab of Eric Newman, where I studied blood flow regulation in the rat retinal vascular network. My research in the Jagust lab focuses on understanding how aging-related changes in memory and cognition are associated with brain amyloid deposition, as measured with PET. 
+
+++++
+
+    |fsam| Samuel Lockhart
+
+    `Google Scholar <https://scholar.google.com/citations?user=lbKAf4cAAAAJ&hl=en&oi=ao>`_
 
     My research project in the Jagust lab examines neuroimaging biomarkers of preclinical Alzheimer’s Disease (AD). Preclinical progression along the AD pathological cascade may be inadvertently conflated with the normal aging process in many studies seeking to understand the causes of gradual cognitive decline late in life. Therefore, our goal is to investigate effects of tau and Aβ accumulation (measured using PET) on structural connectivity between these regions (measured using MRI and DTI), and the relative effects of these brain differences on memory performance.
     
     I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance.
- 
-    **Selected publications**
-
-    LOCKHART, S. N., Roach, A. E., Luck, S. J., Geng, J., Beckett, L., Carmichael, O., & DeCarli, C. (2014). White matter hyperintensities are associated with visual search behavior independent of generalized slowing in aging. Neuropsychologia, 52, 93–101. PMC3924853. `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24183716>`_
-
-    Maillard, P., Fletcher, E., LOCKHART, S. N., Roach, A. E., Reed, B., Mungas, D., DeCarli, C., & Carmichael, O. (2014). White matter hyperintensities and their penumbra lie along a continuum of injury in the aging brain. Stroke, 45(6), 1721-1726. PMID: 24781079.  `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24781079>`_
-
-    Carmichael, O., & LOCKHART, S. N. (2012). The role of diffusion tensor imaging in the study of cognitive aging. C. S. Carter & J. W. Dalley (Eds.) Brain Imaging in Behavioral Neuroscience, (Vol.11) Current Topics in Behavioral Neurosciences. Springer Publishing: 289-320.
-
-    LOCKHART, S. N., Mayda, A. V., Roach, A. E., Fletcher, E., Carmichael, O., Maillard, P., Schwarz, C. G., Yonelinas, A. P., Ranganath, C., & DeCarli, C. (2012). Episodic Memory Function is Associated with Multiple Measures of White Matter Integrity in Cognitive Aging. Frontiers in Human Neuroscience, 6(56). PMC3305887.  `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/22438841>`_
-
 
 ++++
 
@@ -105,6 +104,14 @@ Fellows
     normal aging. (2010) *Oh H, Mormino EC, Madison C, Hayenga A, Smiljic A, Jagust WJ.*
     **Neuroimage. 2010 Oct 18**
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/20965254>`_	
+
+++++
+
+    |rik1| Rik Ossenkoppele
+
+    `Google Scholar <https://scholar.google.com/citations?user=_7MvrN4AAAAJ&hl=en&oi=ao>`_
+
+    Rik completed is PhD under Bart van Berkel at the VUMC in Amsterdam.  He currently splits his time and talent between San Fransicso and Amsterdam, using various neuroimaging modalities to better understand neurodegenerative diseases associated with aging.  He is an avid fan of the AFC Ajax, a burgeoning `movie star <https://www.youtube.com/watch?v=OVZQHv-7I8U>`_, and an expert in men's fashion.  
 
 ++++
 
@@ -200,14 +207,6 @@ Staff
 
 ++++
 
-    |allie| Allie Fero
-
-    I just graduated from Berkeley with a degree in physics.  I'm here to help with PET scan image analysis, and
-    hopefully learn a little about neuroscience while I'm at it. When I'm not here or at home I'm probably out trying
-    new restaurants in San Francisco or skiing up in Tahoe (or trying new restaurants in Tahoe). 
-
-++++
-
     |susan| Susan Landau
     
     Assistant Research Scientist
@@ -218,6 +217,8 @@ Staff
 
     **Papers**
     
+    [Landau2015]_Measurement of longitudinal Aβ change with 18F florbetapir PET and standard uptake value ratios
+
     [Landau2014]_ Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers
 
     [Landau2013]_ Comparing Positron Emission Tomography Imaging and Cerebrospinal Fluid Measurements of b-Amyloid
@@ -238,6 +239,12 @@ Staff
     |andreas| Andreas Lazaris
 
     Andreas is a recent graduate of UC Berkeley with a degree in Cognitive Science, having completed his honors thesis in the Jagust Lab. After working as an undergraduate in the Jagust Lab for 3 years, Andreas has joined Gil's team at the UCSF Memory and Aging Center as a Clinical Research Coordinator, working primarily with PET imaging. Outside of the world of neurology, you can catch Andreas riding his bike from cafe to cafe throughout the East Bay and hitting a local live show whenever possible.
+
+++++
+
+    |taylor| Taylor Mellinger
+
+    I recently graduated from UC Davis with a B.S. in Neurobiology, Physiology, and Behavior. I'm excited to be here to help out with neuropsychological testing and neuroimaging. When not in the lab, I enjoy traveling, hiking, exploring the city,​​ and spending time with my friends and family.    
 
 ++++
 
@@ -273,18 +280,27 @@ Staff
     As an undergrad here at Cal, I loved the interdisciplinary nature of Cognitive Science. I am fascinated by the intricacies and complexities of a ~3 pound piece of flesh we call the brain. I aim to better understand how it works, and apply these understandings to come up with meaningful innovations in the field of public health. Outside of the lab, you're likely to find me playing Scrabble or Chess, enjoying chai tea, chocolate or cheese, traveling, or just exploring new places in the city with friends.
 
 ++++
+
+    |swinnerton| Kaitlin Swinnerton
+
+    I recently graduated from UCLA with a B.S. in Cognitive Science and a minor in Society and Genetics. When not in lab, I can be found either chasing after a frisbee or watching other people chase after a football (or basketball, or baseball, or soccer ball). Life goals include winning a USA Ultimate national championship and setting more life goals.
+
+++++
         
     |jacob| Jacob Vogel
 
     Graduated from Hampshire College with a degree in Neuroscience.  Interests include Neuroimaging, Statistics, Clinical Neuro, and Neuroendocrinology.  Currently managing Dr. Jagust's lab and investigating subtle links between cognition and brain pathology in normally aging individuals.  When not nerding out, you can find him recording music or watching a Phillies game.
-
-
 
 ++++
 
 Undergraduate Assistants
 ========================
 
+    |sasha| Sasha Ashall
+
+    After yee-hawing my way from Missouri to the wild west coast, I'm here to stay. I'm a first year Cal undergrad planning to major in Cognitive Science with an emphasis in Neuroscience. When I'm not furiously doing homework, I'm trying new restaurants around town and watching Friday Night Lights.
+
+++++
 
     |dino| Dino Digma
 
@@ -295,12 +311,6 @@ Undergraduate Assistants
     |april| April Kiyomi Hishinuma
 
     April is majoring in cognitive science with an emphasis in neuroscience. Her love for the brain has lead her to pursue an occupation in both research and health care. She aspires to learn as much as she can about the brain before attending medical school. When not found studying, she will usually be spotted working out at the gym, singing with her guitar, or eating with friends.   
-
-++++
-    
-    |ghassan| Ghassan Makhoul
-
-    I am a Junior at UC Berkeley, studying Molecular Cell Biology with a focus in Neurobiology. I'm also hoping to finish a Computer Science minor. Starting the Fall 2014 semester, I will be facilitating the Kanye West DeCal (sign up!). When I'm not working, I take my time cooking nice meals, go on long bike rides, and swim as much as I can.
 
 ++++
 
@@ -338,14 +348,27 @@ Undergraduate Assistants
 
     I'm a senior at UC Berkeley with a major in Molecular and Cell Biology with a Neurobiology emphasis. I am currently working on a senior thesis regarding the differences between the variants of Alzheimer's Disease. When not in lab, I am often keeping up with the latest basketball and soccer news, listening to music and learning to play a song on the piano, or playing FIFA. In the future, I hope to attend medical school and continue research as a clinical neuropsychologist.
 
+
+
+Alumni
+======
+
+++++
+
+    |allie| Allie Fero
+
+    Allie graduated from Berkeley with a degree in physics and joined the to help with PET scan image analysis.  She left us
+    for a brief stint in the industry world and will likely be pursuing a graduate degree in Environmental Engineering at MIT or UCSD (we don't know yet) this fall!  Go Allie!!
+
 ++++
 
     |annez| Anne Zeng
 
-    I am an undergraduate student at UC Berkeley expecting to graduate May 2017 with a major in Bioengineering.
+++++
+    
+    |ghassan| Ghassan Makhoul
 
-Alumni
-======
+++++
 
     |sylvia| Sylvia Villeneuve
 
@@ -391,11 +414,6 @@ Alumni
 
     |angie| Angie Yi
 
-    I'm a 3rd year majoring in MCB - Neuro. Aspiring to attend pharmacy 
-    school after graduating. I love studying about
-    the brain and cognitive function. I hope to attain a MA/PhD in 
-    Neuroscience in the future. 
-
 ++++
 
     |renaud| Renaud La Joie
@@ -430,14 +448,15 @@ Alumni
 
 ++++
 
-    |monika| Monika Varga Doležalová
+    Monika Varga Doležalová
 
     Monika has returned to her hospital in Slovakia.  She leaves behind
     some excellent research on subjective memory complaint, and a lab full
     of admirers.  
+
 ++++
 
-    |brendan| Brendan Cohn-Sheehy
+    Brendan Cohn-Sheehy
 
     Brendan is on his way to UC-Davis's medical school to pursue an MD-PhD program, 
     which he hopes will train him to become one of the world's great Neurologists.
@@ -450,7 +469,7 @@ Alumni
 
 ++++
   
-    |samia| Samia K. Arthur-Bentil
+    Samia K. Arthur-Bentil
 
     Samia pioneered the reconstruction of the lab's PET scan data and 
     came to the lab to explore the mystery of neurodegenerative disease 
@@ -1012,7 +1031,7 @@ Alumni
 
 .. |kris| image:: mugs/kris.jpg
 
-.. |jacob| image:: mugs/jacob.png
+.. |jacob| image:: mugs/jacob1.jpeg
 
 .. |nagehan| image:: mugs/nagehan2.jpg
 
@@ -1081,3 +1100,15 @@ Alumni
 .. |matta| image:: /mugs/matta.jpg
 
 .. |scholl| image:: /mugs/scholl.jpg
+
+.. |swinnerton| image:: /mugs/swinnerton.JPG
+
+.. |taylor| image:: /mugs/taylor.JPG
+
+.. |sasha| image:: /mugs/Sasha.jpg
+
+.. |fsam| image:: /mugs/funny_sam.JPG
+
+.. |tess| image:: /mugs/tess.JPG
+
+.. |rik1| image:: /mugs/rik1.jpg

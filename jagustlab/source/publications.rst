@@ -14,6 +14,29 @@ Publication Timeline
     src='http://embed.verite.co/timeline/?source=0AiAA0OlPoQx6dDB3a2k5RU5iSC0wRFpmMGJxLXdJaVE&font=Merriweather-NewsCycle&maptype=ROADMAP&lang=en&start_at_end=true&hash_bookmark=true&height=500'
     width='100%' height='500' frameborder='0'></iframe>
 
+2015
+====
+
+
+.. [Landau2015]
+    **Measurement of longitudinal Aβ change with 18F florbetapir PET and standard uptake value ratios**
+
+    J Nucl Med. 2015 Mar 5. pii: jnumed.114.148981. [Epub ahead of print]
+
+    *Landau SM, Fero A, Baker SL, Koeppe RA, Mintun M, Chen K, Reiman E, Jagust W*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25745095>`_
+
+.. [Ossenkoppele2015]
+    **Tau, amyloid, and hypometabolism in a patient with posterior cortical atrophy.**
+
+    Ann Neurol. 2015 Feb;77(2):338-42. doi: 10.1002/ana.24321. Epub 2014 Dec 17.
+
+    *Ossenkoppele R, Schonhaut DR, Baker SL, O'Neil JP, Janabi M, Ghosh PM, Santos M, Miller ZA, Bettcher BM, Gorno-Tempini ML, Miller BL, Jagust WJ, Rabinovici GD*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25448043>`_
+
+
 2014
 ====
 

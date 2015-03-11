@@ -62,6 +62,8 @@ Specific projects in the lab include:
 References
 ~~~~~~~~~~
 
+    [Ossenkoppele2015]_ Tau, amyloid, and hypometabolism in a patient with posterior cortical atrophy.
+
     [Elman2014]_ Neural compensation in older people with brain amyloid-β deposition
 
     [Elman2014_2]_ Effects of Beta-Amyloid on Resting State Functional Connectivity Within and Between Networks Reflect Known Patterns of Regional Vulnerability
@@ -119,6 +121,8 @@ Subjects are studied approximately annually with repeated scans and cognitive te
 
 References
 ~~~~~~~~~~
+
+    [Landau2015]_ Measurement of longitudinal Aβ change with 18F florbetapir PET and standard uptake value ratios.
 
     [Landau2014]_ Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers
 

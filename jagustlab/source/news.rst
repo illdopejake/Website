@@ -4,6 +4,18 @@
  News
 ======
 
+January (2015)
+
+The Jagust Lab was very busy at the 2015 Human Amyloid Imaging meeting in Miami! 
+
+A summary of some of the meeting highlights, including coverage of many Jagust Lab presentations, can be found in this `AlzForum release <http://www.alzforum.org/print-series/390816>`_ .
+
+**AWARD**
+ 
+Also, a huge congratulations to Gil for winning this year's `Christopher Clark award <http://www.worldeventsforum.com/hai/scholarships.html>`_   
+
+.. image:: mugs/Gil_2015.jpg
+
 ++++
 
 December (2014)
@@ -11,6 +23,8 @@ December (2014)
 Another fantastic holiday party at the Jagust Lab.  We forgot to take a picture when everyone was present, but here are some of the last remaining partiers on their way out with the leftovers!
 
 .. image:: mugs/holiday_party_2014.JPG
+
+++++
 
 September (2014)
 
