@@ -111,7 +111,7 @@ Fellows
 
     `Google Scholar <https://scholar.google.com/citations?user=_7MvrN4AAAAJ&hl=en&oi=ao>`_
 
-    Rik completed is PhD under Bart van Berkel at the VUMC in Amsterdam.  He currently splits his time and talent between San Fransicso and Amsterdam, using various neuroimaging modalities to better understand neurodegenerative diseases associated with aging.  He is an avid fan of the AFC Ajax, a burgeoning `movie star <https://www.youtube.com/watch?v=OVZQHv-7I8U>`_, and an expert in men's fashion.  
+    Rik completed his PhD under Bart van Berkel at the VUMC in Amsterdam.  He currently splits his time and talent between San Fransicso and Amsterdam, using various neuroimaging modalities to better understand neurodegenerative diseases associated with aging.  He is an avid fan of the AFC Ajax, a burgeoning `movie star <https://www.youtube.com/watch?v=OVZQHv-7I8U>`_, and an expert in men's fashion.  
 
 ++++
 
@@ -182,6 +182,12 @@ Graduate Students
 
 
     Back for another round of research, stay tuned for exciting findings.
+
+++++
+
+    |dean| Alex Dean
+
+    Alex is a masters student in Epidemiology and Biostatistics investigating brain function using a combination of genetic and imaging methods.
 
 
 Staff
@@ -1112,3 +1118,5 @@ Alumni
 .. |tess| image:: /mugs/tess.JPG
 
 .. |rik1| image:: /mugs/rik1.jpg
+
+.. |dean| image:: /mugs/dean.jpg
