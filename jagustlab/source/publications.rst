@@ -17,11 +17,19 @@ Publication Timeline
 2015
 ====
 
+.. [Boutchko2015]
+    **Clustering-initiated factor analysis application for tissue classification in dynamic brain positron emission tomography**
+
+    J Cereb Blood Flow Metab. 2015 Apr 22. doi: 10.1038/jcbfm.2015.69. [Epub ahead of print]
+
+    *Boutchko R, Mitra D, Baker SL, Jagust WJ, Gullberg GT*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25899294>`_
 
 .. [Landau2015]
     **Measurement of longitudinal Aβ change with 18F florbetapir PET and standard uptake value ratios**
 
-    J Nucl Med. 2015 Mar 5. pii: jnumed.114.148981. [Epub ahead of print]
+    J Nucl Med. 2015 Apr;56(4):567-74
 
     *Landau SM, Fero A, Baker SL, Koeppe RA, Mintun M, Chen K, Reiman E, Jagust W*
 
@@ -30,7 +38,7 @@ Publication Timeline
 .. [Ossenkoppele2015]
     **Tau, amyloid, and hypometabolism in a patient with posterior cortical atrophy.**
 
-    Ann Neurol. 2015 Feb;77(2):338-42. doi: 10.1002/ana.24321. Epub 2014 Dec 17.
+    Ann Neurol. 2015 Feb;77(2):338-42. 
 
     *Ossenkoppele R, Schonhaut DR, Baker SL, O'Neil JP, Janabi M, Ghosh PM, Santos M, Miller ZA, Bettcher BM, Gorno-Tempini ML, Miller BL, Jagust WJ, Rabinovici GD*
 
@@ -45,6 +53,14 @@ Publication Timeline
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25844350>`_
 
+.. [Villeneuve2015b]
+    **Existing Pittsburgh Compound-B positron emission tomography thresholds are too high: statistical and pathological evaluation**
+
+    Brain. DOI: http://dx.doi.org/10.1093/brain/awv112 First published online: 7 May 2015
+
+    *Villeneuve S, Rabinovici GD, Cohn-Sheehy BI, Madison C, Ayakta N, Ghosh P, La Joie R, Arthur-Bentil SK, Vogel JW, Marks SM, Lehmann M, Rosen HJ, Reed B, Olichney J, Boxer AL, Miller BL, Borys E, Jin L, Huang EJ, Grinberg LT, DeCarli C, Seeley WW, Jagust WJ*
+    
+
 2014
 ====
 
@@ -53,7 +69,7 @@ Publication Timeline
 
     **Dopamine and the cognitive downside of a promised bonus** 
 
-    Psychological Science 2014 Feb 13
+    Psychol Sci. 2014 Apr;25(4):1003-9
 
     *Aarts E, Wallace DL, Dang LC, Jagust WJ, Cools R, D’Esposito M*
 
@@ -63,7 +79,7 @@ Publication Timeline
 
     **Neural compensation in older people with brain amyloid-β deposition**
 
-    Nat Neurosci. 2014 Sep 14. doi: 10.1038/nn.3806
+    Nat Neurosci. 2014 Oct;17(10):1316-8
 
     *Elman JA, Oh H, Madison CM, Baker SL, Vogel JW, Marks SM, Crowley S, O'Neil JP, Jagust WJ*
 
@@ -83,7 +99,7 @@ Publication Timeline
 
     **Amyloid PET imaging in Alzheimer’s disease: a comparison of three radiotracers** 
 
-    European Journal of Nuclear Medicine and Molecular Imaging Mar 20 2014
+    Eur J Nucl Med Mol Imaging. 2014 Jul;41(7):1398-407
 
     *Landau SM, Thomas BA, Thurfjell L, Schmidt M, Margolin R, Mintun M, Pontecorvo M, Baker SL, Jagust WJ*
 

@@ -62,6 +62,8 @@ Specific projects in the lab include:
 References
 ~~~~~~~~~~
 
+    [Villeneuve2015b]_ Existing Pittsburgh Compound-B positron emission tomography thresholds are too high: statistical and pathological evaluation
+
     [Ossenkoppele2015]_ Tau, amyloid, and hypometabolism in a patient with posterior cortical atrophy.
 
     [Elman2014]_ Neural compensation in older people with brain amyloid-β deposition

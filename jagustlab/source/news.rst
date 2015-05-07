@@ -4,6 +4,22 @@
  News
 ======
 
+May (2015)
+
+UC Berkeley wrote a feature article on the Jagust Lab for its Research Page!  Check it out `here <http://vcresearch.berkeley.edu/news/profile/william_jagust>`_.
+
+++++
+
+April (2015)
+
+Breaking news for the amyloid imaging community: The Centers for Medicare & Medicaid Services has agreed to a 100 million dollar, 4 year, 200 center study of 18,000 individuals assessing the utility of amyloid imaging in a clinical setting. This will be the ultimate assessment of whether amyloid PET scans should be covered by Medicare.  And the study is being spearheaded by our very own Gil Rabinovici!  
+
+Find the official statement from the Alzheimer's Associations `here <http://www.alz.org/documents_custom/IDEAS_study_news_release_041615.pdf>`_.
+
+A detailed article covering the story can be found `here <http://www.alzforum.org/news/community-news/100m-ideas-cms-blesses-study-evaluate-amyloid-scans-clinical-practice>`_.    
+
+++++
+
 January (2015)
 
 The Jagust Lab was very busy at the 2015 Human Amyloid Imaging meeting in Miami! 
