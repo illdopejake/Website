@@ -5,6 +5,10 @@
 .. image:: _static/neg_to_ad_lh.gif
    :width: 30%
 
+.. image:: _static/ThresholdVideo.gif
+    :width: 35%
+
+    
 Projects currently ongoing in the Lab
 
 Imaging Aggregated Proteins in Aging and Dementia 
