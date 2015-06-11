@@ -4,6 +4,34 @@
  News
 ======
 
+June (2015)
+
+Congratulations to Bryce and Prof. Matt Walker for their second Nature Neuroscience `paper <http://www.ncbi.nlm.nih.gov/pubmed/26030850>`_ in collaboration with the Jagust Lab! 
+
+**β-amyloid disrupts human NREM slow waves and related hippocampus-dependent memory consolidation.** 
+
+Nat Neurosci. 2015 Jun 1. doi: 10.1038/nn.4035. [Epub ahead of print]
+
+*Mander BA, Marks SM, Vogel JW, Rao V, Lu B, Saletin JM, Ancoli-Israel S, Jagust WJ, Walker MP*
+
+This one got a lot of great news coverage! See below:
+
+`TIME <http://time.com/3901855/sleep-alzheimers-disease/>`_
+
+`Times <http://www.thetimes.co.uk/tto/science/article4457607.ece>`_
+
+`CBS News <http://www.cbsnews.com/news/poor-sleep-may-contribute-to-alzheimers-disease/>`_
+
+`Medline Plus <http://www.nlm.nih.gov/medlineplus/news/fullstory_152838.html>`_
+
+`Science Newsline <http://www.sciencenewsline.com/articles/2015060116510075.html>`_
+
+`Huffington Post <http://www.huffingtonpost.com/2015/06/02/sleep-alzheimers-linked-to-memory-loss_n_7494502.html>`_
+
+`US News and World Report <http://health.usnews.com/health-news/articles/2015/06/01/alzheimers-linked-brain-proteins-tied-to-poor-sleep-in-study>`_
+
+++++
+
 May (2015)
 
 UC Berkeley wrote a feature article on the Jagust Lab for its Research Page!  Check it out `here <http://vcresearch.berkeley.edu/news/profile/william_jagust>`_.

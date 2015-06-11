@@ -35,6 +35,15 @@ Publication Timeline
 
     `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25745095>`_
 
+.. [Mander2015]
+    **β-amyloid disrupts human NREM slow waves and related hippocampus-dependent memory consolidation.** 
+
+    Nat Neurosci. 2015 Jun 1. doi: 10.1038/nn.4035. [Epub ahead of print]
+
+    *Mander BA, Marks SM, Vogel JW, Rao V, Lu B, Saletin JM, Ancoli-Israel S, Jagust WJ, Walker MP*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/26030850>`_
+
 .. [Ossenkoppele2015]
     **Tau, amyloid, and hypometabolism in a patient with posterior cortical atrophy.**
 
@@ -56,10 +65,20 @@ Publication Timeline
 .. [Villeneuve2015b]
     **Existing Pittsburgh Compound-B positron emission tomography thresholds are too high: statistical and pathological evaluation**
 
-    Brain. DOI: http://dx.doi.org/10.1093/brain/awv112 First published online: 7 May 2015
+    Brain. 2015 May 6. pii: awv112. [Epub ahead of print]
 
     *Villeneuve S, Rabinovici GD, Cohn-Sheehy BI, Madison C, Ayakta N, Ghosh P, La Joie R, Arthur-Bentil SK, Vogel JW, Marks SM, Lehmann M, Rosen HJ, Reed B, Olichney J, Boxer AL, Miller BL, Borys E, Jin L, Huang EJ, Grinberg LT, DeCarli C, Seeley WW, Jagust WJ*
-    
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25953778>`_
+
+.. [Wallace2015]
+    **Genotype status of the dopamine-related catechol-O-methyltransferase (COMT) gene corresponds with desirability of "unhealthy" foods.**
+
+    Appetite. 2015 May 8;92:74-80. doi: 10.1016/j.appet.2015.05.004. [Epub ahead of print]
+
+    *Wallace DL, Aarts E, d'Oleire Uquillas F, Dang LC, Greer SM, Jagust WJ, D'Esposito M*
+
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/25963102>`_
 
 2014
 ====

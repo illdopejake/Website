@@ -3,10 +3,9 @@
 ========
 
 
-.. image:: mugs/lab_photo_2014.JPG
-   :width: 45%
-.. image:: mugs/jagust_award.jpg
-   :width: 45%
+.. image:: mugs/labphoto2015.JPG
+   :width: 60%
+
 
 Faculty
 =======
@@ -26,15 +25,6 @@ Fellows
  
     I completed my PhD at the University of Michigan where I worked with Drs. Cindy Lustig and Martin Sarter. Broadly, my doctoral research investigated the contribution of the neurotransmitter acetylcholine to the control of attention.
 
-
-++++
-
-    |elman| Jeremy Elman
-
-    `Google Scholar <http://scholar.google.com/citations?user=YZ-VP40AAAAJ&hl=en>`_
-
-    I received my PhD from UC Berkeley in 2012 under `Arthur Shimamura <http://ist-socrates.berkeley.edu/~shimlab/>`_. My doctoral research investigated contributions of the posterior parietal cortex to episodic memory using fMRI. As part of the Jagust lab, my research focuses on alterations in cognitive performance and multi-modal imaging biomarkers as a function of beta-amyloid deposition employing techniques that include structural MRI, task-based and resting-state fMRI, and PIB-PET.
-          
 ++++
 
     |tess| Tess Kornfield
@@ -204,7 +194,19 @@ Staff
 
 	Suzanne swims with the sharks and will devour wimpy little men
 	all while juggling MRI and PET scanners!
-	
+
+++++    
+
+    |bell| Rachel Bell
+
+    Rachel graduated from Boston University with a B.A. in Neuroscience.  A week later, she moved to the West Coast to become the new Jagust Lab manager! In her free time she loves hiking, camping, rock climbing, cooking, and wandering around book stores.
+
+++++
+
+    |horng| Andy Horng
+
+    I studied Cognitive Science and EECS at Cal, ran off to the tech industry for a few years, then happily returned to assist in PET analysis. I like to swim, jam sesh, build forecasting models, and loudly discuss basketball.
+
 ++++
 
     |faria| Jamie Faria
@@ -254,7 +256,6 @@ Staff
 
 ++++
 
-
     |kris| Kristin Norton
 
     Kris is a radiologist specialist working to collect PET data.
@@ -269,16 +270,6 @@ Staff
     team, trying every kind of coffee from Philz, and guessing what the next season 
     of American Horror Story will be about.
 
-++++
-
-	|henry| Henry Schwimmer
-
-    henry dot schwimmer at gmail dot com
-
-	When not in the lab, he can be found shredding the gnar in Tahoe or 
-	hiking the backcountry with his harmonica. 
-	Online chatters beware: he despises emoticons.
-
 ++++    
 
     |vyoma| Vyoma Shah
@@ -290,12 +281,6 @@ Staff
     |swinnerton| Kaitlin Swinnerton
 
     I recently graduated from UCLA with a B.S. in Cognitive Science and a minor in Society and Genetics. When not in lab, I can be found either chasing after a frisbee or watching other people chase after a football (or basketball, or baseball, or soccer ball). Life goals include winning a USA Ultimate national championship and setting more life goals.
-
-++++
-        
-    |jacob| Jacob Vogel
-
-    Graduated from Hampshire College with a degree in Neuroscience.  Interests include Neuroimaging, Statistics, Clinical Neuro, and Neuroendocrinology.  Currently managing Dr. Jagust's lab and investigating subtle links between cognition and brain pathology in normally aging individuals.  When not nerding out, you can find him recording music or watching a Phillies game.
 
 ++++
 
@@ -354,10 +339,38 @@ Undergraduate Assistants
 
     I'm a senior at UC Berkeley with a major in Molecular and Cell Biology with a Neurobiology emphasis. I am currently working on a senior thesis regarding the differences between the variants of Alzheimer's Disease. When not in lab, I am often keeping up with the latest basketball and soccer news, listening to music and learning to play a song on the piano, or playing FIFA. In the future, I hope to attend medical school and continue research as a clinical neuropsychologist.
 
+++++
+
+    |kwang| Kevin Wang
+
+    I am a currently a 2nd year here at UC Berkeley from New Jersey. Outside of the lab, you can find me at the library, gym, or the pool. I enjoy eating all kinds of foods, watching movies, and attending concerts. Other than that, I spend my days struggling to learn how to cook and speak a third language.
+
 
 
 Alumni
 ======
+
+    |henry| Henry Schwimmer
+
+    henry dot schwimmer at gmail dot com
+
+    When not in the lab, he can be found shredding the gnar in Tahoe or 
+    hiking the backcountry with his harmonica. 
+    Henry is on his way to start med school at Emory! As a long-time staple in the Jagust Lab, he will leave a big hole in our hearts.
+
+++++
+
+   |jacob| Jacob Vogel
+
+    Graduated from Hampshire College with a degree in Neuroscience.  Interests include Neuroimaging, Statistics, Clinical Neuro, and Neuroendocrinology. Jake is off to pursue is PhD at McGill!
+
+++++
+
+    |elman| Jeremy Elman
+
+    `Google Scholar <http://scholar.google.com/citations?user=YZ-VP40AAAAJ&hl=en>`_
+
+    I received my PhD from UC Berkeley in 2012 under `Arthur Shimamura <http://ist-socrates.berkeley.edu/~shimlab/>`_. My doctoral research investigated contributions of the posterior parietal cortex to episodic memory using fMRI. As part of the Jagust lab, my research focuses on alterations in cognitive performance and multi-modal imaging biomarkers as a function of beta-amyloid deposition employing techniques that include structural MRI, task-based and resting-state fMRI, and PIB-PET.
 
 ++++
 
@@ -418,11 +431,11 @@ Alumni
 
 ++++
 
-    |angie| Angie Yi
+     Angie Yi
 
 ++++
 
-    |renaud| Renaud La Joie
+    Renaud La Joie
 
     `Research Gate <https://www.researchgate.net/profile/Renaud_La_Joie>`_
 
@@ -447,7 +460,7 @@ Alumni
 
 ++++
 
-   |sam| Sam Crowley
+    Sam Crowley
 
     Sam is on his way to pursue a PhD in Clinical Pysch at Florida State
     University.  Later gator!
@@ -1120,3 +1133,9 @@ Alumni
 .. |rik1| image:: /mugs/rik1.jpg
 
 .. |dean| image:: /mugs/dean.jpg
+
+.. |kwang| image:: /mugs/kwang.jpg
+
+.. |horng| image:: /mugs/horng.jpg
+
+.. |bell| image:: /mugs/Bell.jpg

@@ -174,6 +174,7 @@ Current projects use [18F]Flurometatyrosine (FMT) with PET as an indicator of pr
 	
 References
 ~~~~~~~~~~
+    [Wallace2015]_ Genotype status of the dopamine-related catechol-O-methyltransferase (COMT) gene corresponds with desirability of "unhealthy" foods.
 
     [Aarts2014]_ Dopamine and the cognitive downside of a promised bonus
 
