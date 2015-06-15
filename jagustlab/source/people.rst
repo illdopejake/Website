@@ -203,6 +203,13 @@ Staff
 
 ++++
 
+    |he| Mark He
+
+    Mark does stats for the lab up in LBL. He went to school in the cold wintry lands of Chicago but grew up in the warmer climes of Austin, Texas. Outside of work, Mark enjoys going to shows, drawing, and foraging for trinkets, spices, and relics in the numerous flea markets and local shops in the East Bay.
+
+++++
+
+
     |horng| Andy Horng
 
     I studied Cognitive Science and EECS at Cal, ran off to the tech industry for a few years, then happily returned to assist in PET analysis. I like to swim, jam sesh, build forecasting models, and loudly discuss basketball.
@@ -283,6 +290,10 @@ Staff
     I recently graduated from UCLA with a B.S. in Cognitive Science and a minor in Society and Genetics. When not in lab, I can be found either chasing after a frisbee or watching other people chase after a football (or basketball, or baseball, or soccer ball). Life goals include winning a USA Ultimate national championship and setting more life goals.
 
 ++++
+
+    |Chloe| Chloe 
+
+    Chloe is currently a student in puppy preschool.  She is working part-time in the lab as a post-lunch vacuum as well as an expert destresser.  
 
 Undergraduate Assistants
 ========================
@@ -1139,3 +1150,7 @@ Alumni
 .. |horng| image:: /mugs/horng.jpg
 
 .. |bell| image:: /mugs/Bell.jpg
+
+.. |Chloe| image:: /mugs/Chloe.jpg
+
+.. |he| image:: /mugs/he.jpg
