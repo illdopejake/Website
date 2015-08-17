@@ -11,6 +11,14 @@
     
 Projects currently ongoing in the Lab
 
+Braak ROI PDF
+-------------
+
+Link to additional information about Braak ROIs from Michael Schöll's AIC presentation: `Click Here <https://drive.google.com/open?id=0B7wXJisDVGhAV1N6S01rcjNjbnc>`_
+
+
+
+
 Imaging Aggregated Proteins in Aging and Dementia 
 -----------------------------------------------------
 

@@ -168,9 +168,6 @@ Graduate Students
 
     |shawn2| Shawn Marks
 
-    shawn dot marks2 at gmail dot com
-
-
     Back for another round of research, stay tuned for exciting findings.
 
 ++++
