@@ -25,13 +25,7 @@ Fellows
  
     I completed my PhD at the University of Michigan where I worked with Drs. Cindy Lustig and Martin Sarter. Broadly, my doctoral research investigated the contribution of the neurotransmitter acetylcholine to the control of attention.
 
-++++
 
-    |tess| Tess Kornfield
-
-    `Google Scholar <https://scholar.google.com/citations?user=geD3N1IAAAAJ&hl=en>`_
-
-    I completed my PhD in neuroscience at the University of Minnesota in the lab of Eric Newman, where I studied blood flow regulation in the rat retinal vascular network. My research in the Jagust lab focuses on understanding how aging-related changes in memory and cognition are associated with brain amyloid deposition, as measured with PET. 
 
 ++++
 
@@ -43,57 +37,7 @@ Fellows
     
     I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance.
 
-++++
 
-
-    |hwamee| Hwamee Oh
-
-    hwameeoh at berkeley dot edu
-
-    My research in the Jagust lab examines cognitive, structural, and
-    functional alterations in relation to normal aging and pathological 
-    aging involving beta-amyloid deposition using multimodality imaging 
-    techniques of PIB-PET, FDG-PET, structural MRI, and fMRI and 
-    neuropsychological tests.
-
-    Prior to the Jagust lab, I received my PhD from SUNY-Stony Brook in 
-    2009,where I worked with Hoi-Chung Leung. My doctoral research 
-    focused on the behavioral and neural bases of working memory, 
-    specifically, executive processes and an interaction of visual and 
-    verbal representations in healthy young adults.
-
-    **Papers**
-
-    [Oh2013_2]_ Frontotemporal Network Connectivity during Memory Encoding Is Increased with Aging and Disrupted by
-    Beta-Amyloid.
-    *Oh H, Jagust WJ.*
-    **J Neurosci. 2013 Nov 20**
-    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24259567>`_
-
-    [Oh2013]_ Association of gray matter atrophy with age, b-amyloid, 
-    and cognition in aging
-    *Oh H, Madison C, Villeneuve S, Markley C, Jagust WJ.*
-    **Cereb Cortex. 2013 Feb 6.**
-    `pubmed <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038633/>`_
-
-    
-    [Oh2012_2]_ Covarying alterations in Aβ deposition, glucose 
-    metabolism, and gray matter volume in cognitively normal elderly
-    *Oh H, Habeck C, Madison C, Jagust W*
-    **Human Brain Mapping, epub  Sep 11, 2012**
-    `Human Brain Mapping Link <http://onlinelibrary.wiley.com/doi/
-    10.1002/hbm.22173/abstract>`_
-
-    [Oh2012]_
-    Effects of age and β-amyloid on cognitive changes in normal elderly people (2012) *Hwamee Oh, Cindee Madison, Thaddeus J. Haight, Candace Markley, William J. Jagust*
-    **Neurobiology of Aging 2012**
-    `science direct <http://www.sciencedirect.com/science/article/pii/S0197458012001534>`_
-
-    [Oh2010]_
-    Beta-Amyloid affects frontal and posterior brain networks in 
-    normal aging. (2010) *Oh H, Mormino EC, Madison C, Hayenga A, Smiljic A, Jagust WJ.*
-    **Neuroimage. 2010 Oct 18**
-    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/20965254>`_	
 
 ++++
 
@@ -211,11 +155,7 @@ Staff
 
     I studied Cognitive Science and EECS at Cal, ran off to the tech industry for a few years, then happily returned to assist in PET analysis. I like to swim, jam sesh, build forecasting models, and loudly discuss basketball.
 
-++++
 
-    |faria| Jamie Faria
-
-    Jamie is a recent graduate from the newest UC campus, Merced, with a B.S. in Cognitive Science. She is now assisting in PET processing and is particularly interested in eventually continuing her education in brain sciences research. She loves animals, especially her family’s two Swedish Vallhunds, Fox and Goose, and ferocious cat, Darwin. When away from the lab she can be found watching sports, cooking yummy meals, and enjoying the outdoors.
 
 ++++
 
@@ -358,6 +298,21 @@ Undergraduate Assistants
 Alumni
 ======
 
+
+    |faria| Jamie Faria
+
+    Jamie is a recent graduate from the newest UC campus, Merced, with a B.S. in Cognitive Science. She is now assisting in PET processing and is particularly interested in eventually continuing her education in brain sciences research. She loves animals, especially her family’s two Swedish Vallhunds, Fox and Goose, and ferocious cat, Darwin. When away from the lab she can be found watching sports, cooking yummy meals, and enjoying the outdoors.
+
+    ++++
+
+    |tess| Tess Kornfield
+
+    `Google Scholar <https://scholar.google.com/citations?user=geD3N1IAAAAJ&hl=en>`_
+
+    I completed my PhD in neuroscience at the University of Minnesota in the lab of Eric Newman, where I studied blood flow regulation in the rat retinal vascular network. My research in the Jagust lab focuses on understanding how aging-related changes in memory and cognition are associated with brain amyloid deposition, as measured with PET. 
+
+    ++++
+
     |henry| Henry Schwimmer
 
     henry dot schwimmer at gmail dot com
@@ -371,6 +326,58 @@ Alumni
    |jacob| Jacob Vogel
 
     Graduated from Hampshire College with a degree in Neuroscience.  Interests include Neuroimaging, Statistics, Clinical Neuro, and Neuroendocrinology. Jake is off to pursue is PhD at McGill!
+
+++++
+
+
+    |hwamee| Hwamee Oh
+
+    hwameeoh at berkeley dot edu
+
+    My research in the Jagust lab examines cognitive, structural, and
+    functional alterations in relation to normal aging and pathological 
+    aging involving beta-amyloid deposition using multimodality imaging 
+    techniques of PIB-PET, FDG-PET, structural MRI, and fMRI and 
+    neuropsychological tests.
+
+    Prior to the Jagust lab, I received my PhD from SUNY-Stony Brook in 
+    2009,where I worked with Hoi-Chung Leung. My doctoral research 
+    focused on the behavioral and neural bases of working memory, 
+    specifically, executive processes and an interaction of visual and 
+    verbal representations in healthy young adults.
+
+    **Papers**
+
+    [Oh2013_2]_ Frontotemporal Network Connectivity during Memory Encoding Is Increased with Aging and Disrupted by
+    Beta-Amyloid.
+    *Oh H, Jagust WJ.*
+    **J Neurosci. 2013 Nov 20**
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/24259567>`_
+
+    [Oh2013]_ Association of gray matter atrophy with age, b-amyloid, 
+    and cognition in aging
+    *Oh H, Madison C, Villeneuve S, Markley C, Jagust WJ.*
+    **Cereb Cortex. 2013 Feb 6.**
+    `pubmed <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3038633/>`_
+
+    
+    [Oh2012_2]_ Covarying alterations in Aβ deposition, glucose 
+    metabolism, and gray matter volume in cognitively normal elderly
+    *Oh H, Habeck C, Madison C, Jagust W*
+    **Human Brain Mapping, epub  Sep 11, 2012**
+    `Human Brain Mapping Link <http://onlinelibrary.wiley.com/doi/
+    10.1002/hbm.22173/abstract>`_
+
+    [Oh2012]_
+    Effects of age and β-amyloid on cognitive changes in normal elderly people (2012) *Hwamee Oh, Cindee Madison, Thaddeus J. Haight, Candace Markley, William J. Jagust*
+    **Neurobiology of Aging 2012**
+    `science direct <http://www.sciencedirect.com/science/article/pii/S0197458012001534>`_
+
+    [Oh2010]_
+    Beta-Amyloid affects frontal and posterior brain networks in 
+    normal aging. (2010) *Oh H, Mormino EC, Madison C, Hayenga A, Smiljic A, Jagust WJ.*
+    **Neuroimage. 2010 Oct 18**
+    `pubmed <http://www.ncbi.nlm.nih.gov/pubmed/20965254>`_	
 
 ++++
 
