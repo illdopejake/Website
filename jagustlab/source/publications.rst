@@ -14,8 +14,220 @@ Publication Timeline
     src='http://embed.verite.co/timeline/?source=0AiAA0OlPoQx6dDB3a2k5RU5iSC0wRFpmMGJxLXdJaVE&font=Merriweather-NewsCycle&maptype=ROADMAP&lang=en&start_at_end=true&hash_bookmark=true&height=500'
     width='100%' height='500' frameborder='0'></iframe>
 
+2016
+====
+
+
+
+.. [Landau2016]
+	**Amyloid negativity in patients with clinically diagnosed Alzheimer disease and MCI.**
+
+	Neurology. 2016 Mar 11. pii: 10.1212/WNL.0000000000002576. [Epub ahead of print]
+
+	*Landau SM, Horng A, Fero A, Jagust WJ; Alzheimer's Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/26968515>`_
+
+.. [Ossenkoppele2016]	
+	**Tau PET patterns mirror clinical and neuroanatomical variability in Alzheimer's disease.**
+
+	Brain. 2016 Mar 8. pii: aww027. [Epub ahead of print]
+
+	*Ossenkoppele R, Schonhaut DR, Schöll M, Lockhart SN, Ayakta N, Baker SL, O'Neil JP, Janabi M, Lazaris A, Cantwell A, Vogel J, Santos M, Miller ZA, Bettcher BM, Vossel KA, Kramer JH, Gorno-Tempini ML, Miller BL, Jagust WJ, Rabinovici GD*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/26962052>`_
+
+.. [Schöll2016]
+	**PET Imaging of Tau Deposition in the Aging Human Brain**
+
+	Neuron. 2016 Mar 2; 89, 971–982; doi: 10.1016/j.neuron.2016.01.028
+
+	*Michael Schöll, Samuel N Lockhart, Daniel R Schonhaut, Henry D Schwimmer, Gil D Rabinovici, William J Jagust Correspondence, Michael Schö Ll, James P O 'neil, Mustafa Janabi, Rik Ossenkoppele, Suzanne L Baker, Jacob W Vogel, Jamie Faria, William J Jagust*
+
+
+.. [Jung2016]
+ 	**Tract-Specific Correlates of Neuropsychological Deficits in Patients with Subcortical Vascular Cognitive Impairment.**
+
+ 	J Alzheimers Dis. 2016 Jan 19;50(4):1125-35. doi: 10.3233/JAD-150841.
+
+ 	*Jung NY, Han CE, Kim HJ, Yoo SW, Kim HJ, Kim EJ, Na DL, Lockhart SN, Jagust WJ, Seong JK, Seo SW*
+
+ 	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/26836179>`_
+
+
 2015
 ====
+
+.. [Smith2015]
+	**Modulation of Impulsivity and Reward Sensitivity in Intertemporal Choice by Striatal and Midbrain Dopamine Synthesis in Healthy Adults.**
+
+	J Neurophysiol. 2015 Dec 16:jn.00261.2015. doi: 10.1152/jn.00261.2015.
+
+	*Smith CT, Wallace DL, Dang LC, Aarts E, Jagust WJ, D'Esposito M, Boettiger CA*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Modulation+of+Impulsivity+and+Reward+Sensitivity+in+Intertemporal+Choice+by+Striatal+and+Midbrain+Dopamine+Synthesis+in+Healthy+Adults.>`_
+
+.. [Jagust2015]
+	**Is amyloid-β harmful to the brain? Insights from human imaging studies.**
+
+	Brain. 2015 Nov 27. pii: awv326.
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Is+amyloid-%CE%B2+harmful+to+the+brain%3F+Insights+from+human+imaging+studies>`_
+
+.. [Tosun2015]
+	**Discriminative Power of Arterial Spin Labeling Magnetic Resonance Imaging and 18F-Fluorodeoxyglucose Positron Emission Tomography Changes for Amyloid-β-Positive Subjects in the Alzheimer's Disease Continuum.**
+
+	Neurodegener Dis. 2016;16(1-2):87-94. doi: 10.1159/000439257. Epub 2015 Nov 12.
+
+	*Tosun D, Schuff N, Jagust W, Weiner MW; Alzheimer''s Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Discriminative+Power+of+Arterial+Spin+Labeling+Magnetic+Resonance+Imaging+and+18F-Fluorodeoxyglucose+Positron+Emission+Tomography+Changes+for+Amyloid-%CE%B2-Positive+Subjects+in+the+Alzheimer%27s+Disease+Continuum.>`_
+
+
+.. [Schreiber2015]
+	**Comparison of Visual and Quantitative Florbetapir F 18 Positron Emission Tomography Analysis in Predicting Mild Cognitive Impairment Outcomes.**
+
+	JAMA Neurol. 2015 Oct 1;72(10):1183-90. doi: 10.1001/jamaneurol.2015.1633.
+
+	*Schreiber S, Landau SM, Fero A, Schreiber F, Jagust WJ; Alzheimer’s Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Comparison+of+Visual+and+Quantitative+Florbetapir+F+18+Positron+Emission+Tomography+Analysis+in+Predicting+Mild+Cognitive+Impairment+Outcomes.>`_
+
+.. [Altmann2015]
+	**Regional brain hypometabolism is unrelated to regional amyloid plaque burden.**
+
+	Brain. 2015 Dec;138(Pt 12):3734-46. doi: 10.1093/brain/awv278. Epub 2015 Sep 29.
+
+	*Altmann A, Ng B, Landau SM, Jagust WJ, Greicius MD; Alzheimer’s Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Regional+brain+hypometabolism+is+unrelated+to+regional+amyloid+plaque+burden>`_
+
+
+.. [Ossenkoppele2015]
+	**Atrophy patterns in early clinical stages across distinct phenotypes of Alzheimer's disease.**
+
+	Hum Brain Mapp. 2015 Nov;36(11):4421-37. doi: 10.1002/hbm.22927. Epub 2015 Aug 11.
+
+	*Ossenkoppele R, Cohn-Sheehy BI, La Joie R, Vogel JW, Möller C, Lehmann M, van Berckel BN, Seeley WW, Pijnenburg YA, Gorno-Tempini ML,Kramer JH, Barkhof F, Rosen HJ, van der Flier WM, Jagust WJ, Miller BL, Scheltens P, Rabinovici GD*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Atrophy+patterns+in+early+clinical+stages+across+distinct+phenotypes+of+Alzheimer%27s+disease.>`_
+
+
+.. [Ramanan2015]
+	**GWAS of longitudinal amyloid accumulation on 18F-florbetapir PET in Alzheimer's disease implicates microglial activation gene IL1RAP.**
+
+	Brain. 2015 Oct;138(Pt 10):3076-88. doi: 10.1093/brain/awv231. Epub 2015 Aug 11.
+
+	*Ramanan VK, Risacher SL, Nho K, Kim S, Shen L, McDonald BC, Yoder KK, Hutchins GD, West JD, Tallman EF, Gao S, Foroud TM, Farlow MR, De Jager PL, Bennett DA, Aisen PS, Petersen RC, Jack CR Jr, Toga AW, Green RC, Jagust WJ, Weiner MW, Saykin AJ; Alzheimer’s Disease Neuroimaging Initiative (ADNI).*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=GWAS+of+longitudinal+amyloid+accumulation+on+18F-florbetapir+PET+in+Alzheimer%27s+disease+implicates+microglial+activation+gene+IL1RAP>`_
+
+
+.. [Lehmann2015]
+	**Loss of functional connectivity is greater outside the default mode network in nonfamilial early-onset Alzheimer's disease variants.**
+
+	Neurobiol Aging. 2015 Oct;36(10):2678-86. doi: 10.1016/j.neurobiolaging.2015.06.029. Epub 2015 Jul 16.
+
+	*Lehmann M, Madison C, Ghosh PM, Miller ZA, Greicius MD, Kramer JH, Coppola G, Miller BL, Jagust WJ, Gorno-Tempini ML, Seeley WW, Rabinovici GD*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Loss+of+functional+connectivity+is+greater+outside+the+default+mode+network+in+nonfamilial+early-onset+Alzheimer%27s+disease+variants.>`_
+
+.. [Lazaris2016]
+	**Alzheimer risk genes modulate the relationship between plasma apoE and cortical PiB binding.**
+
+	Neurol Genet. 2015 Oct 15;1(3):e22. doi: 10.1212/NXG.0000000000000022. eCollection 2015 Oct.
+
+	*Lazaris A, Hwang KS, Goukasian N, Ramirez LM, Eastman J, Blanken AE, Teng E, Gylys K, Cole G, Saykin AJ, Shaw LM, Trojanowski JQ, Jagust WJ, Weiner MW, Apostolova LG; Alzheimer's Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27066559>`_
+
+.. [Ossenkoppele2015]
+	**The behavioural/dysexecutive variant of Alzheimer's disease: clinical, neuroimaging and pathological features.**
+
+	Brain. 2015 Sep;138(Pt 9):2732-49. doi: 10.1093/brain/awv191. Epub 2015 Jul 2.
+
+	*Ossenkoppele R, Pijnenburg YA, Perry DC, Cohn-Sheehy BI, Scheltens NM, Vogel JW, Kramer JH, van der Vlies AE, Joie RL, Rosen HJ, van der Flier WM, Grinberg LT, Rozemuller AJ, Huang EJ, van Berckel BN, Miller BL, Barkhof F, Jagust WJ, Scheltens P, Seeley WW, Rabinovici GD*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=The+behavioural%2Fdysexecutive+variant+of+Alzheimer%27s+disease%3A+clinical%2C+neuroimaging+and+pathological+features.>`_
+
+
+.. [Jagust2015]
+	**The Alzheimer's Disease Neuroimaging Initiative 2 PET Core: 2015.**
+
+	The Alzheimer's Disease Neuroimaging Initiative 2 PET Core: 2015
+
+	*Jagust WJ, Landau SM, Koeppe RA, Reiman EM, Chen K, Mathis CA, Price JC, Foster NL, Wang AY*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=The+Alzheimer%27s+Disease+Neuroimaging+Initiative+2+PET+Core%3A+2015.>`_
+
+
+.. [Weiner2015]
+	**Impact of the Alzheimer's Disease Neuroimaging Initiative, 2004 to 2014.**
+
+	Alzheimers Dement. 2015 Jul;11(7):865-84. doi: 10.1016/j.jalz.2015.04.005. Review.
+
+	*Weiner MW, Veitch DP, Aisen PS, Beckett LA, Cairns NJ, Cedarbaum J, Donohue MC, Green RC, Harvey D, Jack CR Jr, Jagust W, Morris JC, Petersen RC, Saykin AJ, Shaw L, Thompson PM, Toga AW, Trojanowski JQ; Alzheimer's Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Impact+of+the+Alzheimer%27s+Disease+Neuroimaging+Initiative%2C+2004+to+2014>`_
+
+
+.. [Naasan2015]
+	**Amyloid in dementia associated with familial FTLD: not an innocent bystander.**
+
+	Neurocase. 2016 Feb;22(1):76-83. doi: 10.1080/13554794.2015.1046458. Epub 2015 Jun 4.
+
+	*Naasan G, Rabinovici GD, Ghosh P, Elofson JD, Miller BL, Coppola G, Karydas A, Fong J, Perry D, Lee SE, Yokoyama JS, Seeley WW, Kramer JH, Weiner MW, Schuff N, Jagust WJ, Grinberg LT, Pribadi M, Yang Z, Sears R, Klein E, Wojta K, Rosen HJ*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Amyloid+in+dementia+associated+with+familial+FTLD%3A+not+an+innocent+bystander.>`_
+
+
+.. [Weiner2015]
+	**2014 Update of the Alzheimer's Disease Neuroimaging Initiative: A review of papers published since its inception.**
+
+	Alzheimers Dement. 2015 Jun;11(6):e1-120. doi: 10.1016/j.jalz.2014.11.001.
+
+	*Weiner MW, Veitch DP, Aisen PS, Beckett LA, Cairns NJ, Cedarbaum J, Green RC, Harvey D, Jack CR, Jagust W, Luthman J, Morris JC, Petersen RC, Saykin AJ, Shaw L, Shen L, Schwarz A, Toga AW, Trojanowski JQ; Alzheimer's Disease Neuroimaging Initiative.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=2014+Update+of+the+Alzheimer%27s+Disease+Neuroimaging+Initiative%3A+A+review+of+papers+published+since+its+inception.>`_
+
+
+.. [Mander2015]
+	**β-amyloid disrupts human NREM slow waves and related hippocampus-dependent memory consolidation.**
+
+	Nat Neurosci. 2015 Jun 1. doi: 10.1038/nn.4035. [Epub ahead of print]
+
+	*Mander BA, Marks SM, Vogel JW, Rao V, Lu B, Saletin JM, Ancoli-Israel S, Jagust WJ, Walker MP*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=%CE%B2-amyloid+disrupts+human+NREM+slow+waves+and+related+hippocampus-dependent+memory+consolidation.>`_
+
+
+.. [Ossenkoppele2015]
+	**Prevalence of amyloid PET positivity in dementia syndromes: a meta-analysis.**
+
+	JAMA. 2015 May 19;313(19):1939-49. doi: 10.1001/jama.2015.4669.
+
+	*Ossenkoppele R, Jansen WJ, Rabinovici GD, Knol DL, van der Flier WM, van Berckel BN, Scheltens P, Visser PJ; Amyloid PET Study Group, Verfaillie SC, Zwan MD, Adriaanse SM, Lammertsma AA, Barkhof F, Jagust WJ, Miller BL, Rosen HJ, Landau SM, Villemagne VL, Rowe CC, Lee DY, Na DL, Seo SW, Sarazin M, Roe CM, Sabri O, Barthel H, Koglin N, Hodges J, Leyton CE, Vandenberghe R, van Laere K, Drzezga A, Forster S, Grimmer T, Sánchez-Juan P, Carril JM, Mok V, Camus V, Klunk WE, Cohen AD, Meyer PT, Hellwig S, Newberg A, Frederiksen KS, Fleisher AS, Mintun MA, Wolk DA, Nordberg A, Rinne JO, Chételat G, Lleo A, Blesa R, Fortea J, Madsen K, Rodrigue KM, Brooks DJ*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Prevalence+of+amyloid+PET+positivity+in+dementia+syndromes%3A+a+meta-analysis>`_
+
+.. [Wallace2015]
+	**Genotype status of the dopamine-related catechol-O-methyltransferase (COMT) gene corresponds with desirability of "unhealthy" foods.**
+
+	Appetite. 2015 May 8;92:74-80. doi: 10.1016/j.appet.2015.05.004. [Epub ahead of print]
+
+	*Wallace DL, Aarts E, d'Oleire Uquillas F, Dang LC, Greer SM, Jagust WJ, D'Esposito M*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Genotype+status+of+the+dopamine-related+catechol-O-methyltransferase+(COMT)+gene+corresponds+with+desirability+of+%22unhealthy%22+foods>`_
+
+
+.. [Villeneuve2015]
+	**Existing Pittsburgh Compound-B positron emission tomography thresholds are too high: statistical and pathological evaluation**
+
+	Brain. 2015 Jul;138(Pt 7):2020-33. doi: 10.1093/brain/awv112. Epub 2015 May 6.
+
+	*Villeneuve S, Rabinovici GD, Cohn-Sheehy BI, Madison C, Ayakta N, Ghosh PM, La Joie R, Arthur-Bentil SK, Vogel JW, Marks SM, Lehmann M, Rosen H, Reed B, Olichney J, Boxer AL, Miller BL, Borys E, Jin L, Huang EJ, Grinberg LT, DeCarli C, Seeley WW, Jagust WJ*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/?term=Existing+Pittsburgh+Compound-B+positron+emission+tomography+thresholds+are+too+high%3A+statistical+and+pathological+evaluation>`_ 
 
 .. [Boutchko2015]
     **Clustering-initiated factor analysis application for tissue classification in dynamic brain positron emission tomography**

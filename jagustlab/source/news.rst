@@ -4,6 +4,33 @@
  News
 ======
 
+February (2016)
+
+Watch the video abstract for the paper "PET Imaging of Tau Deposition in the Aging Human Brain" published March 2nd in Neuron with first two authors Michael Schöll and Samuel N Lockhart: `Youtube <https://www.youtube.com/watch?v=sPGt5oj8QAs&feature=youtu.be>`_ 
+
+Their paper has also been mentioned in several news articles:
+
+`Discovery News <http://news.discovery.com/tech/biotechnology/brain-scans-show-alzheimers-emerging-160303.htm>`_
+
+`The Telegraph <http://www.telegraph.co.uk/news/health/elder/12181017/Brain-scan-to-diagnose-Alzheimers-disease-developed-by-scientists.html>`_
+
+`United Press International <http://www.upi.com/Health_News/2016/03/03/Early-diagnosis-staging-of-Alzheimers-disease-seen-in-PET-scans/1701457010215/>`_
+
+`Medical News Today <http://www.medicalnewstoday.com/releases/307352.php>`_
+
+`The Daily Californian <http://www.dailycal.org/2016/03/03/pet-scan-reveals-new-proteins-role-alzheimers-disease/>`_
+
+
+
+
+++++
+
+Time Magazine interviewed Dr. Jagust for an article titled "Alzheimer's From a New Angle".  Read the article here: 
+`TIME <http://time.com/4217067/alzheimers-from-a-new-angle/>`_ 
+
+
+++++
+
 June (2015)
 
 Congratulations to Bryce and Prof. Matt Walker for their second Nature Neuroscience `paper <http://www.ncbi.nlm.nih.gov/pubmed/26030850>`_ in collaboration with the Jagust Lab! 

@@ -37,7 +37,19 @@ Fellows
     
     I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance.
 
+++++
 
+	|AnneMaass| Anne Maaß
+
+	The ability to form memories for novel experiences is supported by regions within the medial temporal lobe (MTL), which are also differentially and early to be affected in aging and age-related diseases. During my PhD in Magdeburg in the lab of Emrah Düzel, I tried to disentangle how new memories are formed within MTL subregions by making use of the very high resolution provided by 7 Tesla fMRI. Moreover, I investigated the effects of exercise training on vascular and structural hippocampal plasticity in older adults. My current research in the Jagust Lab now aims to unravel how age-related tau and Aß deposition contribute to functional changes within MTL memory pathways, using high-resolution fMRI at 3 Tesla.
+
+	Main Publications: 
+    
+	Maass, A., Berron, D., Libby, L., Ranganath, C. & Düzel, E. Functional subregions of the human entorhinal cortex. Elife 4, (2015).
+
+	Maass, A. et al. Vascular hippocampal plasticity after aerobic exercise in older adults. Mol. Psychiatry (2014).
+
+	Maass, A. et al. Laminar activity in the hippocampus and entorhinal cortex related to novelty and episodic encoding. Nat Commun 5, 5547 (2014).
 
 ++++
 
@@ -226,11 +238,7 @@ Staff
 
     I recently graduated from UCLA with a B.S. in Cognitive Science and a minor in Society and Genetics. When not in lab, I can be found either chasing after a frisbee or watching other people chase after a football (or basketball, or baseball, or soccer ball). Life goals include winning a USA Ultimate national championship and setting more life goals.
 
-++++
-
-    |Chloe| Chloe 
-
-    Chloe is currently a student in puppy preschool.  She is working part-time in the lab as a post-lunch vacuum as well as an expert destresser.  
+  
 
 Undergraduate Assistants
 ========================
@@ -299,6 +307,9 @@ Alumni
 ======
 
 
+
+++++
+
     |faria| Jamie Faria
 
     Jamie is a recent graduate from the newest UC campus, Merced, with a B.S. in Cognitive Science. She is now assisting in PET processing and is particularly interested in eventually continuing her education in brain sciences research. She loves animals, especially her family’s two Swedish Vallhunds, Fox and Goose, and ferocious cat, Darwin. When away from the lab she can be found watching sports, cooking yummy meals, and enjoying the outdoors.
@@ -332,7 +343,7 @@ Alumni
 
     |hwamee| Hwamee Oh
 
-    hwameeoh at berkeley dot edu
+    http://columbianeurology.org/profile/hoh
 
     My research in the Jagust lab examines cognitive, structural, and
     functional alterations in relation to normal aging and pathological 
@@ -1158,3 +1169,5 @@ Alumni
 .. |Chloe| image:: /mugs/Chloe.jpg
 
 .. |he| image:: /mugs/he.jpg
+
+.. |AnneMaass| image:: /mugs/AnneMaass.jpg
