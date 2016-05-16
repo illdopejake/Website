@@ -16,6 +16,14 @@ Publication Timeline
 
 2016
 ====
+.. [Insel2016] 
+	**Accelerating rates of cognitive decline and imaging markers associated with β-amyloid pathology.**
+
+	Neurology. 2016 Apr 15. pii: 10.1212/WNL.0000000000002683. [Epub ahead of print]
+
+	*Insel PS, Mattsson N, Mackin RS, Schöll M, Nosheny RL, Tosun D, Donohue MC, Aisen PS, Jagust WJ, Weiner MW; Alzheimer's Disease Neuroimaging Initiative.*
+	
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27164667>`_
 
 
 
