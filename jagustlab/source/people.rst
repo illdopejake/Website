@@ -198,11 +198,7 @@ Staff
     [Landau2009_2]_ Associations between cognitive, functional, 
     and FDG-PET measures of decline in AD and MC
 
-++++
 
-    |andreas| Andreas Lazaris
-
-    Andreas is a recent graduate of UC Berkeley with a degree in Cognitive Science, having completed his honors thesis in the Jagust Lab. After working as an undergraduate in the Jagust Lab for 3 years, Andreas has joined Gil's team at the UCSF Memory and Aging Center as a Clinical Research Coordinator, working primarily with PET imaging. Outside of the world of neurology, you can catch Andreas riding his bike from cafe to cafe throughout the East Bay and hitting a local live show whenever possible.
 
 ++++
 
@@ -211,6 +207,13 @@ Staff
     I recently graduated from UC Davis with a B.S. in Neurobiology, Physiology, and Behavior. I'm excited to be here to help out with neuropsychological testing and neuroimaging. When not in the lab, I enjoy traveling, hiking, exploring the city,​​ and spending time with my friends and family.    
 
 ++++
+
+    |Sharada| Sharada Narayan
+
+    I studied Public Health and English at Cal, but I'm eager to learn about anything and everything. I'm particularly interested in exploring how computational methods can be used to better understand the brain and the progression of aging. In my free time, I enjoy reading, writing, and giggling at lame puns (the real reason I enjoy Shakespeare so much).
+
+++++
+
 
     |kris| Kristin Norton
 
@@ -243,17 +246,6 @@ Staff
 Undergraduate Assistants
 ========================
 
-    |sasha| Sasha Ashall
-
-    After yee-hawing my way from Missouri to the wild west coast, I'm here to stay. I'm a first year Cal undergrad planning to major in Cognitive Science with an emphasis in Neuroscience. When I'm not furiously doing homework, I'm trying new restaurants around town and watching Friday Night Lights.
-
-++++
-
-    |dino| Dino Digma
-
-    I am a third year student at UC Berkeley. I aspire to do clinical research in the future.
-
-++++
     
     |april| April Kiyomi Hishinuma
 
@@ -261,27 +253,11 @@ Undergraduate Assistants
 
 ++++
 
-    |Sharada| Sharada Narayan
-
-    I'm a junior studying Public Health and English, but I'm eager to learn about anything and everything. I'm particularly interested in exploring how computational methods can be used to better understand the brain and the progression of aging. In my free time, I enjoy reading, writing, and giggling at lame puns (the real reason I enjoy Shakespeare so much).
-
-++++
-
-    |stacey| Stacey Jou
-
-    Stacey is a third year majoring in Molecular and Cell Biology with an emphasis in Neurobiology. She is particularly interested in clinical studies of the brain and hopes to attend medical school in the future. Stacey also enjoys spending her time sketching still-life and throwing around a frisbee.
-
-++++
-
     |matta| George Matta
 
     George is a third year Public Health major, interested in mental and neurological health. He is more than certain that he will eventually be resurrected as a zombie--he just loves brains that much.    
 
-++++
 
-    |peng| Ollie Peng
-
-    Hi! I'm a Junior double majoring in bioengineering and electrical engineering and computer science. I'm fascinated by the possibility in the future that humans will be able to control robotic limbs and prosthesis with their minds, and as a result I love learning how the brain works.  I also love cooking jambalaya, impressing myself on the piano, and lifting heavy things in the gym and putting them back down.
 
 ++++
 
@@ -306,10 +282,37 @@ Undergraduate Assistants
 Alumni
 ======
 
+++++
 
+    |peng| Ollie Peng
+
+    Hi! I'm a Junior double majoring in bioengineering and electrical engineering and computer science. I'm fascinated by the possibility in the future that humans will be able to control robotic limbs and prosthesis with their minds, and as a result I love learning how the brain works.  I also love cooking jambalaya, impressing myself on the piano, and lifting heavy things in the gym and putting them back down.
 
 ++++
 
+    |sasha| Sasha Ashall
+
+    After yee-hawing my way from Missouri to the wild west coast, I'm here to stay. I'm a first year Cal undergrad planning to major in Cognitive Science with an emphasis in Neuroscience. When I'm not furiously doing homework, I'm trying new restaurants around town and watching Friday Night Lights.
+	++++
+
+    |dino| Dino Digma
+
+    I am a third year student at UC Berkeley. I aspire to do clinical research in the future.
+	++++
+
+    |stacey| Stacey Jou
+
+    Stacey is a third year majoring in Molecular and Cell Biology with an emphasis in Neurobiology. She is particularly interested in clinical studies of the brain and hopes to attend medical school in the future. Stacey also enjoys spending her time sketching still-life and throwing around a frisbee.
+
+
+	++++
+
+
+    |andreas| Andreas Lazaris
+
+    Andreas is a recent graduate of UC Berkeley with a degree in Cognitive Science, having completed his honors thesis in the Jagust Lab. After working as an undergraduate in the Jagust Lab for 3 years, Andreas has joined Gil's team at the UCSF Memory and Aging Center as a Clinical Research Coordinator, working primarily with PET imaging. Outside of the world of neurology, you can catch Andreas riding his bike from cafe to cafe throughout the East Bay and hitting a local live show whenever possible.
+
+	++++
     |faria| Jamie Faria
 
     Jamie is a recent graduate from the newest UC campus, Merced, with a B.S. in Cognitive Science. She is now assisting in PET processing and is particularly interested in eventually continuing her education in brain sciences research. She loves animals, especially her family’s two Swedish Vallhunds, Fox and Goose, and ferocious cat, Darwin. When away from the lab she can be found watching sports, cooking yummy meals, and enjoying the outdoors.

@@ -3,6 +3,12 @@
 ======
  News
 ======
+June (2016)
+
+Work from the Jagust Lab is cited in the Scientific American Article: "Obscure Disease May Offer Backdoor to New Treatments for Alzheimer's and Other Killers"
+`Check out the article <http://www.scientificamerican.com/article/obscure-disease-may-offer-backdoor-to-new-treatments-for-alzheimer-s-and-other-killers/>`_
+
+++++
 
 February (2016)
 
