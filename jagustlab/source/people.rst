@@ -422,7 +422,7 @@ Alumni
 
     villeneuve dot sylvia at gmail dot com
 
-    Https://sites.google.com/site/villeneuvesylvia/
+    http://www.villeneuvelab.com
 
     Sylvia is currently completing a postdoc at Northwestern, and has
     recently been accepted for a tenure-track position at McGill!! We
