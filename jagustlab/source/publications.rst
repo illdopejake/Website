@@ -16,6 +16,16 @@ Publication Timeline
 
 2016
 ====
+
+.. [Mander2016]
+	**Sleep: A Novel Mechanistic Pathway, Biomarker, and Treatment Target in the Pathology of Alzheimer's Disease?**
+
+	Trends Neurosci. 2016 Jun 17. pii: S0166-2236(16)30037-6. doi: 10.1016/j.tins.2016.05.002. [Epub ahead of print] Review.
+
+	*Mander BA, Winer J, Jagust WJ, Walker MP.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27325209>`_
+
 .. [Insel2016] 
 	**Accelerating rates of cognitive decline and imaging markers associated with β-amyloid pathology.**
 
