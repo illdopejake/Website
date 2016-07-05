@@ -29,13 +29,41 @@ Fellows
 
 ++++
 
-    |fsam| Samuel Lockhart
+	|Stephanie| Stephanie Leal
 
-    `Google Scholar <https://scholar.google.com/citations?user=lbKAf4cAAAAJ&hl=en&oi=ao>`_
+	I received my Ph.D. in Psychological & Brain Sciences at Johns Hopkins University in the Translational Neurobiology Lab under the direction of Dr. Michael Yassa. I examined the emotional modulation of episodic memory and translational applications to aging and depression-related cognitive impairment using a novel emotional memory task along with high-resolution fMRI.
+
+	My research in the Jagust Lab focuses on the influence of tau pathology on memory consolidation in cognitively normal aging. I utilize high-resolution fMRI methods in combination with tau PET imaging to elucidate tau’s effects on hippocampal subfield functioning. 
+
+	Main publications:
+
+	Leal, S.L., Tighe, S.K., Jones, Craig K., & Yassa, M.A. (2014). Pattern separation of emotional information in hippocampal dentate/CA3. Hippocampus. 24: 1146-1155.
+
+	Leal, S.L & Yassa, M. (2015). Neurocognitive Aging and the Hippocampus Across Species. Trends in Neuroscience. 38(12), 800-812.
+
+	Leal, S.L., Noche, J.A., Murray, E.A., & Yassa, M.A. (2016). Positivity effect specific to older adults with subclinical memory impairment. Learning & Memory.
+    
+++++
+
+    |fsam| Samuel Lockhart
 
     My research project in the Jagust lab examines neuroimaging biomarkers of preclinical Alzheimer’s Disease (AD). Preclinical progression along the AD pathological cascade may be inadvertently conflated with the normal aging process in many studies seeking to understand the causes of gradual cognitive decline late in life. Therefore, our goal is to investigate effects of tau and Aβ accumulation (measured using PET) on structural connectivity between these regions (measured using MRI and DTI), and the relative effects of these brain differences on memory performance.
     
     I earned my PhD from UC Davis in 2014, working with Dr. Charles DeCarli to investigate the contributions of age and CVD-related white matter injury (white matter hyperintensities or WMH) to attentional control network function and cognitive performance.
+
+
+    `Google Scholar <https://scholar.google.com/citations?user=lbKAf4cAAAAJ&hl=en&oi=ao>`_
+
+    `LinkedIn <https://www.linkedin.com/in/samuel-lockhart-0b280249?trk=nav_responsive_tab_profile_pic>`_
+
+    `Website <https://snlsnlblog.wordpress.com/>`_
+
+    `ResearchGate <https://www.researchgate.net/profile/Samuel_Lockhart2?ev=hdr_xprf>`_
+
+    `AcademiaDOTedu <https://berkeley.academia.edu/SamuelLockhart>`_
+
+    `ORCID <http://orcid.org/0000-0002-0893-5420>`_
+
 
 ++++
 
@@ -1174,3 +1202,5 @@ Alumni
 .. |he| image:: /mugs/he.jpg
 
 .. |AnneMaass| image:: /mugs/AnneMaass.jpg
+
+.. |Stephanie| image:: /mugs/Stephanie.jpg
