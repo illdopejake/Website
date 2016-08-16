@@ -154,11 +154,6 @@ Graduate Students
 
     Back for another round of research, stay tuned for exciting findings.
 
-++++
-
-    |dean| Alex Dean
-
-    Alex is a masters student in Epidemiology and Biostatistics investigating brain function using a combination of genetic and imaging methods.
 
 
 Staff
@@ -247,15 +242,7 @@ Staff
 
     Kris is a radiologist specialist working to collect PET data.
 
-++++
 
-    |daniel| Daniel Schonhaut
-
-    I studied psychology at UCLA and am here to learn fMRI data analysis and 
-    anything else I can pick up along the way. Other things I am working on right 
-    now include winning my fantasy soccer league without putting Luis Suarez on my 
-    team, trying every kind of coffee from Philz, and guessing what the next season 
-    of American Horror Story will be about.
 
 ++++    
 
@@ -275,6 +262,11 @@ Undergraduate Assistants
 ========================
 
     
+
+Alumni
+======
+
+
     |april| April Kiyomi Hishinuma
 
     April is majoring in cognitive science with an emphasis in neuroscience. Her love for the brain has lead her to pursue an occupation in both research and health care. She aspires to learn as much as she can about the brain before attending medical school. When not found studying, she will usually be spotted working out at the gym, singing with her guitar, or eating with friends.   
@@ -307,8 +299,21 @@ Undergraduate Assistants
 
 
 
-Alumni
-======
+++++
+
+    |daniel| Daniel Schonhaut
+
+    I studied psychology at UCLA and am here to learn fMRI data analysis and 
+    anything else I can pick up along the way. Other things I am working on right 
+    now include winning my fantasy soccer league without putting Luis Suarez on my 
+    team, trying every kind of coffee from Philz, and guessing what the next season 
+    of American Horror Story will be about.
+
+++++
+
+    |dean| Alex Dean
+
+    Alex is a masters student in Epidemiology and Biostatistics investigating brain function using a combination of genetic and imaging methods.
 
 ++++
 

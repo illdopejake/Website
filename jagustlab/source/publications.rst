@@ -16,6 +16,45 @@ Publication Timeline
 
 2016
 ====
+.. [Ballarini2016]
+	**Neuropsychiatric subsyndromes and brain metabolic network dysfunctions in early onset Alzheimer's disease.**
+
+
+	Hum Brain Mapp. 2016 Jul 13. doi: 10.1002/hbm.23305. [Epub ahead of print]
+
+	*Ballarini T, Iaccarino L, Magnani G, Ayakta N, Miller BL, Jagust WJ, Gorno-Tempini ML, D Rabinovici G, Perani D.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27412866>`_
+
+
+.. [Jagust2016]
+	**Early life sets the stage for aging.**
+
+
+	Proc Natl Acad Sci U S A. 2016 Jul 19. pii: 201609720. [Epub ahead of print] 
+
+	*Jagust WJ.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27436907>`_
+
+.. [Lockhart2016]
+	**Dynamic PET Measures of Tau Accumulation in Cognitively Normal Older Adults and Alzheimer's Disease Patients Measured Using [18F] THK-5351.**
+
+	PLoS One. 2016 Jun 29;11(6):e0158460. doi: 10.1371/journal.pone.0158460. eCollection 2016.
+
+	*Lockhart SN, Baker SL, Okamura N, Furukawa K, Ishiki A, Furumoto S, Tashiro M, Yanai K, Arai H, Kudo Y, Harada R, Tomita N, Hiraoka K, Watanuki S, Jagust WJ.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27355840>`_
+
+.. [Chételat2016]
+	**Atrophy, hypometabolism and clinical trajectories in patients with amyloid-negative Alzheimer's disease.**
+
+	Brain. 2016 Jun 29. pii: aww159. [Epub ahead of print]
+
+
+	*Chételat G, Ossenkoppele R, Villemagne VL, Perrotin A, Landeau B, Mézenge F, Jagust WJ, Dore V, Miller BL, Egret S, Seeley WW, van der Flier WM, La Joie R, Ames D, van Berckel BN, Scheltens P, Barkhof F, Rowe CC, Masters CL, de La Sayette V, Bouwman F, Rabinovici GD.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27357349>`_
 
 .. [Mander2016]
 	**Sleep: A Novel Mechanistic Pathway, Biomarker, and Treatment Target in the Pathology of Alzheimer's Disease?**
