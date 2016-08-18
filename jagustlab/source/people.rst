@@ -177,11 +177,7 @@ Staff
 
     Rachel graduated from Boston University with a B.A. in Neuroscience.  A week later, she moved to the West Coast to become the new Jagust Lab manager! In her free time she loves hiking, camping, rock climbing, cooking, and wandering around book stores.
 
-++++
 
-    |he| Mark He
-
-    Mark does stats for the lab up in LBL. He went to school in the cold wintry lands of Chicago but grew up in the warmer climes of Austin, Texas. Outside of work, Mark enjoys going to shows, drawing, and foraging for trinkets, spices, and relics in the numerous flea markets and local shops in the East Bay.
 
 ++++
 
@@ -246,6 +242,13 @@ Staff
 
 ++++    
 
+	|Maia| Maia Scarpetta
+
+
+	I studied psychology and neuroscience at Reed College in Portland, Oregon. After graduating, I moved to Berkeley to work in neuroimaging before applying to grad school. My interests (other than neuroscience) include hiking and being outdoors, kickboxing, weightlifting, and music.
+
+++++
+
     |vyoma| Vyoma Shah
 
     As an undergrad here at Cal, I loved the interdisciplinary nature of Cognitive Science. I am fascinated by the intricacies and complexities of a ~3 pound piece of flesh we call the brain. I aim to better understand how it works, and apply these understandings to come up with meaningful innovations in the field of public health. Outside of the lab, you're likely to find me playing Scrabble or Chess, enjoying chai tea, chocolate or cheese, traveling, or just exploring new places in the city with friends.
@@ -265,7 +268,13 @@ Undergraduate Assistants
 
 Alumni
 ======
+++++
 
+    |he| Mark He
+
+    Mark does stats for the lab up in LBL. He went to school in the cold wintry lands of Chicago but grew up in the warmer climes of Austin, Texas. Outside of work, Mark enjoys going to shows, drawing, and foraging for trinkets, spices, and relics in the numerous flea markets and local shops in the East Bay.
+
+++++
 
     |april| April Kiyomi Hishinuma
 
@@ -1209,3 +1218,5 @@ Alumni
 .. |AnneMaass| image:: /mugs/AnneMaass.jpg
 
 .. |Stephanie| image:: /mugs/Stephanie.jpg
+
+.. |Maia| image:: /mugs/Maia.jpg
