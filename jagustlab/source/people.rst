@@ -154,6 +154,12 @@ Graduate Students
 
     Back for another round of research, stay tuned for exciting findings.
 
+++++
+
+	|joe| Joe Winer
+
+	I'm a Psychology PhD student interested in the role of sleep in changes to the brain and cognitive function that occur with aging. By combining EEG, PET, and fMRI, I hope to better understand the relationship between pathology, sleep physiology, and cognition. 
+
 
 
 Staff
@@ -1220,3 +1226,5 @@ Alumni
 .. |Stephanie| image:: /mugs/Stephanie.jpg
 
 .. |Maia| image:: /mugs/Maia.jpg
+
+.. |joe| image:: /mugs/joe.png
