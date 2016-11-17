@@ -16,6 +16,24 @@ Publication Timeline
 
 2016
 ====
+.. [Berry2016]
+	**Aging affects dopaminergic neural mechanisms of cognitive flexibility.**
+
+	J Neurosci. 2016 Nov 2. pii: 0626-16. [Epub ahead of print]
+
+	*Berry AS, Shah VD, Baker SL, Vogel JW, O'Neil JP, Janabi M, Schwimmer HD, Marks SM, Jagust WJ.*
+
+	`pubmed <https://www.ncbi.nlm.nih.gov/pubmed/27807030>`_
+
+.. [Baker2016] 
+	**Reference tissue-based kinetic evaluation of 18F-AV-1451 in aging and dementia.**
+
+	J Nucl Med. 2016 Sep 1. pii: jnumed.116.175273. [Epub ahead of print]
+
+	*Baker SL, Lockhart SN, Price JC, He M, Huesman RH, Schonhaut D, Faria J, Rabinovici G, Jagust WJ.*
+
+	`pubmed <http://www.ncbi.nlm.nih.gov/pubmed/27587706>`_
+
 .. [Ballarini2016]
 	**Neuropsychiatric subsyndromes and brain metabolic network dysfunctions in early onset Alzheimer's disease.**
 
